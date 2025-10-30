@@ -86,13 +86,12 @@ You may modify and adapt the code as needed.
 
 ## Improvements
 
-If you'd like, I can also:
 
 ✅ Add pagination progress logging  
 ✅ Save as CSV / Excel  
 ✅ Add try/except for missing fields  
 ✅ Make it multithreaded for speed  
-✅ Convert everything into a full GitHub repository structure
+
 
 
 
