@@ -1,0 +1,5483 @@
+[
+    {
+        "Name": "Udbhav Agarwal",
+        "Role": "ASSOCIATE",
+        "Mail": "agarwalu@ballardspahr.com",
+        "Phone": "215.864.8413",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Eunice Ahaghotu",
+        "Role": "ASSOCIATE",
+        "Mail": "ahaghotue@ballardspahr.com",
+        "Phone": "410.528.5527",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Azer Akhtar",
+        "Role": "PARTNER",
+        "Mail": "akhtara@ballardspahr.com",
+        "Phone": "202.661.7646",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Forrest Albiston",
+        "Role": "ASSOCIATE",
+        "Mail": "albistonf@ballardspahr.com",
+        "Phone": "202.661.2213",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Valarie J. Allen",
+        "Role": "PARTNER",
+        "Mail": "allenv@ballardspahr.com",
+        "Phone": "215.864.8565",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Andrew I. Almand",
+        "Role": "PARTNER",
+        "Mail": "almanda@ballardspahr.com",
+        "Phone": "202.661.2261",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Ethan A. Anderson",
+        "Role": "ASSOCIATE",
+        "Mail": "andersone@ballardspahr.com",
+        "Phone": "303.299.7374",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Joseph P. Anderson III",
+        "Role": "PARTNER",
+        "Mail": "andersonjp@ballardspahr.com",
+        "Phone": "678.420.9448",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Richard J. Andreano, Jr.",
+        "Role": "PARTNER",
+        "Mail": "andreanor@ballardspahr.com",
+        "Phone": "202.661.2271",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Dimitrios Angelakos",
+        "Role": "ASSOCIATE",
+        "Mail": "angelakosd@ballardspahr.com",
+        "Phone": "215.864.8721",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Hannah Ard",
+        "Role": "OF COUNSEL",
+        "Mail": "ardh@ballardspahr.com",
+        "Phone": "206.223.7130",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "David J. Armstrong",
+        "Role": "PARTNER",
+        "Mail": "armstrongd@ballardspahr.com",
+        "Phone": "602.798.5412",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Amy L. Arndt",
+        "Role": "PARTNER",
+        "Mail": "arndta@ballardspahr.com",
+        "Phone": "605.978.5202",
+        "Location": "Sioux Falls"
+    },
+    {
+        "Name": "Luca V. Artista",
+        "Role": "ASSOCIATE",
+        "Mail": "artistal@ballardspahr.com",
+        "Phone": "410.528.5617",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Jennifer Auger Young",
+        "Role": "ASSOCIATE",
+        "Mail": "augerj@ballardspahr.com",
+        "Phone": "410.528.5522",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "David L. Axelrod",
+        "Role": "PARTNER",
+        "Mail": "axelrodd@ballardspahr.com",
+        "Phone": "215.864.8639",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Kara Backus",
+        "Role": "PARTNER",
+        "Mail": "backusk@ballardspahr.com",
+        "Phone": "503.778.2184",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Jeremy R. Bader",
+        "Role": "PARTNER",
+        "Mail": "baderj@ballardspahr.com",
+        "Phone": "503.778.2131",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Joseph J. Bailey",
+        "Role": "ASSOCIATE",
+        "Mail": "baileyj@ballardspahr.com",
+        "Phone": "215.864.8395",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jeffrey S. Ballard",
+        "Role": "PARTNER",
+        "Mail": "jsballard@ballardspahr.com",
+        "Phone": "202.661.7622",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Andrew M. Banks",
+        "Role": "OF COUNSEL",
+        "Mail": "banksam@ballardspahr.com",
+        "Phone": "646.346.8085",
+        "Location": "New York"
+    },
+    {
+        "Name": "Chrissey L. Barba",
+        "Role": "PARTNER",
+        "Mail": "barbac@ballardspahr.com",
+        "Phone": "215.864.8515",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Justen R. Barbierri",
+        "Role": "ASSOCIATE",
+        "Mail": "barbierrij@ballardspahr.com",
+        "Phone": "215.864.8412",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Christian R. Barnes",
+        "Role": "ASSOCIATE",
+        "Mail": "barnesc@ballardspahr.com",
+        "Phone": "612.371.3220",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Robert R. Baron, Jr.",
+        "Role": "PARTNER",
+        "Mail": "baron@ballardspahr.com",
+        "Phone": "215.864.8335",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Damon O. Barry",
+        "Role": "PARTNER",
+        "Mail": "barryd@ballardspahr.com",
+        "Phone": "303.299.7319",
+        "Location": "Denver"
+    },
+    {
+        "Name": "J. Thomas Bashore II",
+        "Role": "PARTNER",
+        "Mail": "bashorej@ballardspahr.com",
+        "Phone": "410.528.5538",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Katie Bass",
+        "Role": "PARTNER",
+        "Mail": "bassk@ballardspahr.com",
+        "Phone": "206.223.7731",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Michele L. Bax",
+        "Role": "PARTNER",
+        "Mail": "baxm@ballardspahr.com",
+        "Phone": "602.798.5483",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Michael B. Baylous",
+        "Role": "OF COUNSEL",
+        "Mail": "baylousm@ballardspahr.com",
+        "Phone": "907.264.3303",
+        "Location": "Anchorage"
+    },
+    {
+        "Name": "Mark G. Beard",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "beardm@ballardspahr.com",
+        "Phone": "206.223.7014",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Stanton P. Beck",
+        "Role": "PARTNER",
+        "Mail": "becks@ballardspahr.com",
+        "Phone": "206.223.1344",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Jeffrey S. Beenstock",
+        "Role": "PARTNER",
+        "Mail": "beenstock@ballardspahr.com",
+        "Phone": "856.761.3417",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Kate A. Belinski",
+        "Role": "PARTNER",
+        "Mail": "belinskik@ballardspahr.com",
+        "Phone": "202.661.2225",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Anna E. Bennett",
+        "Role": "ASSOCIATE",
+        "Mail": "bennetta@ballardspahr.com",
+        "Phone": "410.528.5603",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Seth D. Berlin",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "berlins@ballardspahr.com",
+        "Phone": "202.508.1122",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Michael Berry",
+        "Role": "PARTNER",
+        "Mail": "berrym@ballardspahr.com",
+        "Phone": "215.988.9773",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jennifer McMillan Beyerlein",
+        "Role": "PARTNER",
+        "Mail": "beyerleinj@ballardspahr.com",
+        "Phone": "206.223.7065",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Rushmi Bhaskaran",
+        "Role": "PARTNER",
+        "Mail": "bhaskaranr@ballardspahr.com",
+        "Phone": "646.346.8005",
+        "Location": "New York"
+    },
+    {
+        "Name": "Cathyann Bixby",
+        "Role": "CHIEF PARTNER RECRUITING OFFICER",
+        "Mail": "bixbyc@ballardspahr.com",
+        "Phone": "215.864.8173",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Ana Mar\u00eda Blanco",
+        "Role": "ASSOCIATE",
+        "Mail": "blancoa@ballardspahr.com",
+        "Phone": "646.346.8072",
+        "Location": "New York"
+    },
+    {
+        "Name": "Erin Blasberg",
+        "Role": "ASSOCIATE",
+        "Mail": "blasberge@ballardspahr.com",
+        "Phone": "678.420.9424",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Mark S. Blaskey",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "blaskeym@ballardspahr.com",
+        "Phone": "215.864.8570",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Steven W. Block",
+        "Role": "PARTNER",
+        "Mail": "blocks@ballardspahr.com",
+        "Phone": "206.223.7718",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "David J. Bodney",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "bodneyd@ballardspahr.com",
+        "Phone": "602.798.5454",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Jordan D. Bondurant",
+        "Role": "ASSOCIATE",
+        "Mail": "bondurantj@ballardspahr.com",
+        "Phone": "856.761.3463",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Caryn Borg-Breen, Ph.D.",
+        "Role": "PARTNER",
+        "Mail": "borgbreenc@ballardspahr.com",
+        "Phone": "215.864.8841",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Nathaniel B. Botwinick",
+        "Role": "ASSOCIATE",
+        "Mail": "botwinickn@ballardspahr.com",
+        "Phone": "646.346.8004",
+        "Location": "New York"
+    },
+    {
+        "Name": "Lorene L. Boudreau",
+        "Role": "PARTNER",
+        "Mail": "boudreaul@ballardspahr.com",
+        "Phone": "215.864.8245",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Facundo Bouzat",
+        "Role": "ASSOCIATE",
+        "Mail": "bouzatf@ballardspahr.com",
+        "Phone": "215.864.8224",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Chad R. Bowman",
+        "Role": "PARTNER",
+        "Mail": "bowmanchad@ballardspahr.com",
+        "Phone": "202.508.1120",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Brianne Boyle",
+        "Role": "ATTORNEY",
+        "Mail": "boyleb@ballardspahr.com",
+        "Phone": "410.528.5580",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Kathryn J. Boyle",
+        "Role": "ASSOCIATE",
+        "Mail": "boylek@ballardspahr.com",
+        "Phone": "215.864.8107",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Sophie G. Bradford",
+        "Role": "ASSOCIATE",
+        "Mail": "bradfords@ballardspahr.com",
+        "Phone": "202.661.2222",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Katelyn M. Bradley",
+        "Role": "ASSOCIATE",
+        "Mail": "bradleykm@ballardspahr.com",
+        "Phone": "215.864.8373",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Katheryn Bradley",
+        "Role": "PARTNER",
+        "Mail": "bradleyk@ballardspahr.com",
+        "Phone": "206.223.7399",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Donna Brady",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "bradyd@ballardspahr.com",
+        "Phone": "424.204.4342",
+        "Location": "Anchorage"
+    },
+    {
+        "Name": "Magdalena Bragun",
+        "Role": "OF COUNSEL",
+        "Mail": "bragunm@ballardspahr.com",
+        "Phone": "206.223.7067",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Dustin P. Branch",
+        "Role": "PARTNER",
+        "Mail": "branchd@ballardspahr.com",
+        "Phone": "424.204.4354",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Nicholas J. Brannick",
+        "Role": "ATTORNEY",
+        "Mail": "brannickn@ballardspahr.com",
+        "Phone": "302.252.4464",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Todd Brannon",
+        "Role": "ASSOCIATE",
+        "Mail": "brannont@ballardspahr.com",
+        "Phone": "206.223.7122",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Margaret Bolce Brivanlou, Ph.D.",
+        "Role": "PARTNER",
+        "Mail": "brivanloum@ballardspahr.com",
+        "Phone": "646.346.8058",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Austin M. Brown",
+        "Role": "ASSOCIATE",
+        "Mail": "brownam@ballardspahr.com",
+        "Phone": "678.420.9430",
+        "Location": "New York"
+    },
+    {
+        "Name": "Charley F. Brown",
+        "Role": "PARTNER",
+        "Mail": "browncf@ballardspahr.com",
+        "Phone": "678.420.9410",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Jay Ward Brown",
+        "Role": "PARTNER",
+        "Mail": "brownjay@ballardspahr.com",
+        "Phone": "202.508.1136",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Justin H. Brown",
+        "Role": "PARTNER",
+        "Mail": "brownjh@ballardspahr.com",
+        "Phone": "215.864.8538",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Lauren N. Brown",
+        "Role": "ATTORNEY",
+        "Mail": "brownln@ballardspahr.com",
+        "Phone": "646.346.8042",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Ryan D. Brown",
+        "Role": "ASSOCIATE",
+        "Mail": "brownrd@ballardspahr.com",
+        "Phone": "702.868.7562",
+        "Location": "New York"
+    },
+    {
+        "Name": "Kristen W. Broz",
+        "Role": "PARTNER",
+        "Mail": "brozk@ballardspahr.com",
+        "Phone": "202.661.7640",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Molly R. Bryson",
+        "Role": "PARTNER",
+        "Mail": "brysonm@ballardspahr.com",
+        "Phone": "202.661.7638",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Matthew W. Buckley",
+        "Role": "ASSOCIATE",
+        "Mail": "buckleym@ballardspahr.com",
+        "Phone": "612.371.5765",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Thomas Burke",
+        "Role": "PARTNER",
+        "Mail": "burket@ballardspahr.com",
+        "Phone": "215.864.8463",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Steven A. Burkhart",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "burkharts@ballardspahr.com",
+        "Phone": "410.528.5569",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Connor P. Burns",
+        "Role": "ASSOCIATE",
+        "Mail": "burnscp@ballardspahr.com",
+        "Phone": "303.299.7320",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Haesun K. Burris-Lee",
+        "Role": "ASSOCIATE",
+        "Mail": "burrisleeh@ballardspahr.com",
+        "Phone": "215.864.8121",
+        "Location": "Denver"
+    },
+    {
+        "Name": "J. Chesley Burruss",
+        "Role": "ASSOCIATE",
+        "Mail": "burrussc@ballardspahr.com",
+        "Phone": "215.864.8237",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Steven Burt",
+        "Role": "OF COUNSEL",
+        "Mail": "burts@ballardspahr.com",
+        "Phone": "801.517.6839",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jonathan M. Bye",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "byej@ballardspahr.com",
+        "Phone": "612.371.3259",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Bruce Cahn",
+        "Role": "PARTNER",
+        "Mail": "cahnb@ballardspahr.com",
+        "Phone": "503.778.2112",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Alan C. Cardenas-Moreno",
+        "Role": "ASSOCIATE",
+        "Mail": "cardenasmorenoa@ballardspahr.com",
+        "Phone": "302.252.4457",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Nathaniel Cardinal",
+        "Role": "ASSOCIATE",
+        "Mail": "cardinaln@ballardspahr.com",
+        "Phone": "612.371.2448",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Trevor J. Cardo",
+        "Role": "ASSOCIATE",
+        "Mail": "cardot@ballardspahr.com",
+        "Phone": "646.346.8088",
+        "Location": "New York"
+    },
+    {
+        "Name": "Samantha F. Carmickle",
+        "Role": "ASSOCIATE",
+        "Mail": "carmickles@ballardspahr.com",
+        "Phone": "612.371.3219",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Andrew \"Buzz\" Carobus",
+        "Role": "ATTORNEY",
+        "Mail": "carobusa@ballardspahr.com",
+        "Phone": "215.864.8364",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Erin M. Carter",
+        "Role": "ASSOCIATE",
+        "Mail": "cartere@ballardspahr.com",
+        "Phone": "215.864.8641",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Alma D. Casta\u00f1eda, Ph.D.",
+        "Role": "TECHNICAL SPECIALIST",
+        "Mail": "castanedaa@ballardspahr.com",
+        "Phone": "678.420.9452",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Callie Castillo",
+        "Role": "PARTNER",
+        "Mail": "castilloc@ballardspahr.com",
+        "Phone": "206.223.7145",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Joseph L. Cerne",
+        "Role": "OF COUNSEL",
+        "Mail": "cernej@ballardspahr.com",
+        "Phone": "503.778.2192",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Alexia \"Lexi\" Chapman",
+        "Role": "ASSOCIATE",
+        "Mail": "chapmana@ballardspahr.com",
+        "Phone": "303.299.7354",
+        "Location": "Denver"
+    },
+    {
+        "Name": "David E. Chavez",
+        "Role": "ASSOCIATE",
+        "Mail": "chavezd@ballardspahr.com",
+        "Phone": "702.868.7529",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Stephanie Chavez",
+        "Role": "ASSOCIATE",
+        "Mail": "chavezs@ballardspahr.com",
+        "Phone": "206.223.7143",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Justin S. Chay",
+        "Role": "ATTORNEY",
+        "Mail": "chayj@ballardspahr.com",
+        "Phone": "202.661.7619",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Habiba R. Cheema",
+        "Role": "ASSOCIATE",
+        "Mail": "cheemah@ballardspahr.com",
+        "Phone": "215.864.8292",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Adam J. Chelminiak",
+        "Role": "OF COUNSEL",
+        "Mail": "chelminiaka@ballardspahr.com",
+        "Phone": "215.864.8422",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Angela Chen",
+        "Role": "ASSOCIATE",
+        "Mail": "chenak@ballardspahr.com",
+        "Phone": "206.223.7125",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Yanni Chen",
+        "Role": "ASSOCIATE",
+        "Mail": "cheny@ballardspahr.com",
+        "Phone": "202.661.7621",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Wendy Chiapaikeo",
+        "Role": "ASSOCIATE",
+        "Mail": "chiapaikeow@ballardspahr.com",
+        "Phone": "856.761.3415",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Louis L. Chodoff",
+        "Role": "PARTNER",
+        "Mail": "chodoffl@ballardspahr.com",
+        "Phone": "856.761.3436",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Douglas Y. Christian",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "christiand@ballardspahr.com",
+        "Phone": "215.864.8404",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Angela M. Christy",
+        "Role": "PARTNER",
+        "Mail": "christya@ballardspahr.com",
+        "Phone": "612.371.2454",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Ty Chung",
+        "Role": "ASSOCIATE",
+        "Mail": "chungt@ballardspahr.com",
+        "Phone": "303.299.7321",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Gus Cinquino",
+        "Role": "ASSOCIATE",
+        "Mail": "cinquinog@ballardspahr.com",
+        "Phone": "602.798.5441",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Giovanni I. Ciraulo",
+        "Role": "ASSOCIATE",
+        "Mail": "ciraulog@ballardspahr.com",
+        "Phone": "215.864.8332",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Alicia B. Clark",
+        "Role": "PARTNER",
+        "Mail": "clarka@ballardspahr.com",
+        "Phone": "303.299.7341",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Julia Clark",
+        "Role": "OF COUNSEL",
+        "Mail": "clarkjo@ballardspahr.com",
+        "Phone": "206.223.6110",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Kali R. Clark",
+        "Role": "ASSOCIATE",
+        "Mail": "clarkkr@ballardspahr.com",
+        "Phone": "206.223.1385",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Robert J. Clark",
+        "Role": "PARTNER",
+        "Mail": "clarkr@ballardspahr.com",
+        "Phone": "215.864.8659",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Brittany R. Clarke",
+        "Role": "ASSOCIATE",
+        "Mail": "clarkeb@ballardspahr.com",
+        "Phone": "215.864.8315",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Aaron M. Clemmer",
+        "Role": "ASSOCIATE",
+        "Mail": "clemmera@ballardspahr.com",
+        "Phone": "410.528.5605",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "M. Elizabeth Cloues",
+        "Role": "COUNSEL",
+        "Mail": "clouesm@ballardspahr.com",
+        "Phone": "215.864.8326",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Celia Cohen",
+        "Role": "PARTNER",
+        "Mail": "cohenc@ballardspahr.com",
+        "Phone": "646.346.8002",
+        "Location": "New York"
+    },
+    {
+        "Name": "Keisha O. Coleman",
+        "Role": "PARTNER",
+        "Mail": "colemank@ballardspahr.com",
+        "Phone": "678.420.9320",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Scott A. Coleman",
+        "Role": "PARTNER",
+        "Mail": "colemansa@ballardspahr.com",
+        "Phone": "612.371.2428",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Brendan K. Collins",
+        "Role": "PARTNER",
+        "Mail": "Collins@ballardspahr.com",
+        "Phone": "215.864.8106",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Patrick G. Compton",
+        "Role": "PARTNER",
+        "Mail": "comptonp@ballardspahr.com",
+        "Phone": "303.454.0521",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Desmond D. Connall, Jr.",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "connalld@ballardspahr.com",
+        "Phone": "202.661.7642",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Tiffany Connors",
+        "Role": "OF COUNSEL",
+        "Mail": "connorst@ballardspahr.com",
+        "Phone": "206.223.7267",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Rachel Constantino-Wallace",
+        "Role": "PARTNER",
+        "Mail": "constantinowallacer@ballardspahr.com",
+        "Phone": "206.223.7106",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "James P. Cooke",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "cooke@ballardspahr.com",
+        "Phone": "202.661.2273",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Noelle Cooper",
+        "Role": "PARTNER",
+        "Mail": "coopern@ballardspahr.com",
+        "Phone": "206.223.7032",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "J. Andre Cortes",
+        "Role": "ASSOCIATE",
+        "Mail": "cortesa@ballardspahr.com",
+        "Phone": "646.346.8028",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Melissa R. Costello",
+        "Role": "OF COUNSEL",
+        "Mail": "costellomr@ballardspahr.com",
+        "Phone": "602.798.5451",
+        "Location": "New York"
+    },
+    {
+        "Name": "Emma L. Craig",
+        "Role": "ASSOCIATE",
+        "Mail": "craige@ballardspahr.com",
+        "Phone": "410.528.5640",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Patricia G. Cramer",
+        "Role": "SENIOR ATTORNEY",
+        "Mail": "cramerp@ballardspahr.com",
+        "Phone": "215.864.8607",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "David W. Criswell",
+        "Role": "PARTNER",
+        "Mail": "criswelld@ballardspahr.com",
+        "Phone": "503.778.2198",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Mary Croft",
+        "Role": "OF COUNSEL",
+        "Mail": "croftm@ballardspahr.com",
+        "Phone": "215.864.8738",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Scott D. Crumley",
+        "Role": "SENIOR ATTORNEY",
+        "Mail": "crumleys@ballardspahr.com",
+        "Phone": "215.864.8736",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "John L. Culhane, Jr.",
+        "Role": "PARTNER",
+        "Mail": "culhane@ballardspahr.com",
+        "Phone": "215.864.8535",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Bill Curran",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "curranb@ballardspahr.com",
+        "Phone": "702.387.3084",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jacob Dachs",
+        "Role": "ASSOCIATE",
+        "Mail": "dachsj@ballardspahr.com",
+        "Phone": "410.528.5548",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Joseph E. Dagher",
+        "Role": "ASSOCIATE",
+        "Mail": "dagherj@ballardspahr.com",
+        "Phone": "702.868.7514",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Tobey M. Daluz",
+        "Role": "PARTNER",
+        "Mail": "daluzt@ballardspahr.com",
+        "Phone": "302.252.4440",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Albert S. Dandridge, III",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "dandridgea@ballardspahr.com",
+        "Phone": "215.864.8242",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Meredith S. Dante",
+        "Role": "PARTNER",
+        "Mail": "dantem@ballardspahr.com",
+        "Phone": "215.864.8132",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Nima Darouian",
+        "Role": "PARTNER",
+        "Mail": "darouiann@ballardspahr.com",
+        "Phone": "424.204.4376",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Gary C. Davenport",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "davenportg@ballardspahr.com",
+        "Phone": "303.454.0549",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Elizabeth A. Davis",
+        "Role": "OF COUNSEL",
+        "Mail": "davisea@ballardspahr.com",
+        "Phone": "503.778.2151",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Kenneth R. Davis II",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "daviskr@ballardspahr.com",
+        "Phone": "503.778.2121",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Paige L. Davis",
+        "Role": "PARTNER",
+        "Mail": "davisp@ballardspahr.com",
+        "Phone": "206.223.7137",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Sydney L. Davis",
+        "Role": "ASSOCIATE",
+        "Mail": "davissl@ballardspahr.com",
+        "Phone": "856.761.3422",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Sarah Elena De Los Santos Samaniego",
+        "Role": "ASSOCIATE",
+        "Mail": "delossantossamaniego@ballardspahr.com",
+        "Phone": "303.299.7367",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Grant S. Degginger",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "deggingerg@ballardspahr.com",
+        "Phone": "206.223.7390",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Ashley E. DeLuca",
+        "Role": "PARTNER",
+        "Mail": "delucaa@ballardspahr.com",
+        "Phone": "215.864.8719",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Dominic J. De Simone",
+        "Role": "PARTNER",
+        "Mail": "desimone@ballardspahr.com",
+        "Phone": "215.864.8704",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Stephania Camp Denton",
+        "Role": "PARTNER",
+        "Mail": "dentons@ballardspahr.com",
+        "Phone": "206.223.7016",
+        "Location": "New York"
+    },
+    {
+        "Name": "Mark S. DePillis",
+        "Role": "PARTNER",
+        "Mail": "depillis@ballardspahr.com",
+        "Phone": "215.864.8731",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Jodi A. DeSchane",
+        "Role": "OF COUNSEL",
+        "Mail": "deschanej@ballardspahr.com",
+        "Phone": "612.371.6225",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Kyle A. DeThomas",
+        "Role": "ASSOCIATE",
+        "Mail": "dethomask@ballardspahr.com",
+        "Phone": "202.661.7614",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "John S. Devlin",
+        "Role": "PARTNER",
+        "Mail": "devlinj@ballardspahr.com",
+        "Phone": "206.223.6280",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Mark C. Dietzen",
+        "Role": "PARTNER",
+        "Mail": "dietzenm@ballardspahr.com",
+        "Phone": "612.371.2452",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Trang K. Do",
+        "Role": "ASSOCIATE",
+        "Mail": "dot@ballardspahr.com",
+        "Phone": "215.864.8205",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Philip M. Dodd",
+        "Role": "ASSOCIATE",
+        "Mail": "doddp@ballardspahr.com",
+        "Phone": "602.798.5470",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Brian D. Doerner",
+        "Role": "PARTNER",
+        "Mail": "doerner@ballardspahr.com",
+        "Phone": "215.864.8615",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Alyssa Domzal",
+        "Role": "PARTNER",
+        "Mail": "domzala@ballardspahr.com",
+        "Phone": "410.528.5510",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Rachel Doran",
+        "Role": "GOVERNMENT AFFAIRS AND COMPLIANCE MANAGER",
+        "Mail": "doranr@ballardspahr.com",
+        "Phone": "202.777.6986",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jessica DuBois",
+        "Role": "ASSOCIATE",
+        "Mail": "duboisj@ballardspahr.com",
+        "Phone": "612.371.2416",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Sasha Dudding",
+        "Role": "ASSOCIATE",
+        "Mail": "duddings@ballardspahr.com",
+        "Phone": "646.346.8094",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Barbara J. Duffy",
+        "Role": "PARTNER",
+        "Mail": "duffyb@ballardspahr.com",
+        "Phone": "206.223.7944",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Jeff Duncan",
+        "Role": "OF COUNSEL",
+        "Mail": "duncanj@ballardspahr.com",
+        "Phone": "503.778.2162",
+        "Location": "New York"
+    },
+    {
+        "Name": "Steven N. Dupont",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "duponts@ballardspahr.com",
+        "Phone": "303.379.2278",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Brett Durbin",
+        "Role": "PARTNER",
+        "Mail": "durbinb@ballardspahr.com",
+        "Phone": "206.223.7041",
+        "Location": "Portland"
+    },
+    {
+        "Name": "John J. Eagan",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "eaganj@ballardspahr.com",
+        "Phone": "646.346.8007",
+        "Location": "New York"
+    },
+    {
+        "Name": "Sarah R. W. East",
+        "Role": "ASSOCIATE",
+        "Mail": "easts@ballardspahr.com",
+        "Phone": "424.204.4346",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Matthew Ebert",
+        "Role": "OF COUNSEL",
+        "Mail": "ebertm@ballardspahr.com",
+        "Phone": "612.371.2418",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Scott M. Edwards",
+        "Role": "PARTNER",
+        "Mail": "edwardss@ballardspahr.com",
+        "Phone": "206.223.7010",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Tegan Valentine Edwards",
+        "Role": "ASSOCIATE",
+        "Mail": "edwardstv@ballardspahr.com",
+        "Phone": "602.798.5440",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Zoe A. Eisberg",
+        "Role": "ASSOCIATE",
+        "Mail": "eisbergz@ballardspahr.com",
+        "Phone": "907.264.3306",
+        "Location": "Anchorage"
+    },
+    {
+        "Name": "Charles R. Ekberg",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "ekbergc@ballardspahr.com",
+        "Phone": "206.223.7012",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Cassandra Ekure",
+        "Role": "ATTORNEY",
+        "Mail": "ekurec@ballardspahr.com",
+        "Phone": "206.223.6270",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Spencer I. Eldred",
+        "Role": "OF COUNSEL",
+        "Mail": "eldreds@ballardspahr.com",
+        "Phone": "424.204.4332",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "John J. Engel",
+        "Role": "PARTNER",
+        "Mail": "engelj@ballardspahr.com",
+        "Phone": "410.528.5520",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Lauren Engelmyer",
+        "Role": "ASSOCIATE",
+        "Mail": "engelmyerl@ballardspahr.com",
+        "Phone": "215.864.8314",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Samuel J. Erlanger",
+        "Role": "ASSOCIATE",
+        "Mail": "erlangers@ballardspahr.com",
+        "Phone": "646.346.8049",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Justin C. Esposito",
+        "Role": "PARTNER",
+        "Mail": "espositoj@ballardspahr.com",
+        "Phone": "215.864.8542",
+        "Location": "New York"
+    },
+    {
+        "Name": "Virginia G. Essandoh, J.D.",
+        "Role": "CHIEF INCLUSION OFFICER",
+        "Mail": "essandohv@ballardspahr.com",
+        "Phone": "215.864.8192",
+        "Location": "New York"
+    },
+    {
+        "Name": "A.C. Estacio-Heilich",
+        "Role": "ASSOCIATE",
+        "Mail": "estacioheilicha@ballardspahr.com",
+        "Phone": "503.778.2106",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Madison Etherington",
+        "Role": "ASSOCIATE",
+        "Mail": "etheringtonm@ballardspahr.com",
+        "Phone": "303.296.3956",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "David L. Evans",
+        "Role": "ASSOCIATE",
+        "Mail": "evansd@ballardspahr.com",
+        "Phone": "612.371.2439",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Nicole C. Evans",
+        "Role": "PARTNER",
+        "Mail": "evansn@ballardspahr.com",
+        "Phone": "801.531.3058",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Michael D. Fabius",
+        "Role": "PARTNER",
+        "Mail": "fabiusm@ballardspahr.com",
+        "Phone": "215.864.8246",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Raymond W. Faricy, III",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "faricyr@ballardspahr.com",
+        "Phone": "612.371.3507",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Shannon D. Farmer",
+        "Role": "PARTNER",
+        "Mail": "farmers@ballardspahr.com",
+        "Phone": "215.864.8221",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Nathan Farris",
+        "Role": "ASSOCIATE",
+        "Mail": "farrisn@ballardspahr.com",
+        "Phone": "215.864.8504",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Kelsey A. Fayer",
+        "Role": "ASSOCIATE",
+        "Mail": "fayerk@ballardspahr.com",
+        "Phone": "303.299.7364",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Jennifer L. Feden",
+        "Role": "OF COUNSEL",
+        "Mail": "fedenj@ballardspahr.com",
+        "Phone": "215.864.8717",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Kirsten E. Fehlan",
+        "Role": "ASSOCIATE",
+        "Mail": "fehlank@ballardspahr.com",
+        "Phone": "678.420.9432",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "David J. Fernandez",
+        "Role": "OF COUNSEL",
+        "Mail": "fernandezd@ballardspahr.com",
+        "Phone": "646.346.8027",
+        "Location": "New York"
+    },
+    {
+        "Name": "Adam Y. Fetian",
+        "Role": "ASSOCIATE",
+        "Mail": "fetiana@ballardspahr.com",
+        "Phone": "410.528.5541",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Goldie Fields",
+        "Role": "ASSOCIATE",
+        "Mail": "fieldsg@ballardspahr.com",
+        "Phone": "424.204.4338",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Glenn J. Figurski",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "figurskig@ballardspahr.com",
+        "Phone": "202.661.2236",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Aja D. Finger",
+        "Role": "ASSOCIATE",
+        "Mail": "fingera@ballardspahr.com",
+        "Phone": "202.661.7625",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Paul Finkelstein",
+        "Role": "ASSOCIATE",
+        "Mail": "finkelsteinp@ballardspahr.com",
+        "Phone": "215.864.8241",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jesse Flickinger",
+        "Role": "ASSOCIATE",
+        "Mail": "flickingerj@ballardspahr.com",
+        "Phone": "206.223.6286",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Jonathan R. Flora",
+        "Role": "PARTNER",
+        "Mail": "floraj@ballardspahr.com",
+        "Phone": "215.864.8119",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Mary Grace Folwell",
+        "Role": "OF COUNSEL",
+        "Mail": "folwellm@ballardspahr.com",
+        "Phone": "202.777.6984",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Erin K. Fountaine",
+        "Role": "ASSOCIATE",
+        "Mail": "fountainee@ballardspahr.com",
+        "Phone": "215.864.8343",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Christian Fox",
+        "Role": "OF COUNSEL",
+        "Mail": "foxc@ballardspahr.com",
+        "Phone": "678.420.9339",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Douglas M. Fox",
+        "Role": "PARTNER",
+        "Mail": "foxd@ballardspahr.com",
+        "Phone": "410.528.5505",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Gregory R. Fox",
+        "Role": "PARTNER",
+        "Mail": "foxg@ballardspahr.com",
+        "Phone": "206.223.7129",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Patrick J. Franke",
+        "Role": "PARTNER",
+        "Mail": "frankep@ballardspahr.com",
+        "Phone": "206.223.7100",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Duranya N. Freeman",
+        "Role": "ASSOCIATE",
+        "Mail": "freemand@ballardspahr.com",
+        "Phone": "303.299.7368",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Pilar C. French",
+        "Role": "PARTNER",
+        "Mail": "frenchp@ballardspahr.com",
+        "Phone": "503.778.2170",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Emily C. Friedman",
+        "Role": "ASSOCIATE",
+        "Mail": "friedmane@ballardspahr.com",
+        "Phone": "302.252.4444",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Daniel R. Fritz",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "fritzd@ballardspahr.com",
+        "Phone": "605.978.5205",
+        "Location": "Sioux Falls"
+    },
+    {
+        "Name": "Charles Frohman",
+        "Role": "OF COUNSEL",
+        "Mail": "frohmanc@ballardspahr.com",
+        "Phone": "612.371.2437",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Alexander Fung",
+        "Role": "ASSOCIATE",
+        "Mail": "funga@ballardspahr.com",
+        "Phone": "206.223.7022",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Andrew J. Gabel",
+        "Role": "PARTNER",
+        "Mail": "gabela@ballardspahr.com",
+        "Phone": "206.223.7026",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "John H. Gadon",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "gadonj@ballardspahr.com",
+        "Phone": "503.778.2130",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Rania S. Galan",
+        "Role": "PARTNER",
+        "Mail": "galanr@ballardspahr.com",
+        "Phone": "202.661.2226",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Sonia A. Galan",
+        "Role": "ASSOCIATE",
+        "Mail": "galans@ballardspahr.com",
+        "Phone": "702.868.7505",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Antonia Gales",
+        "Role": "ASSOCIATE",
+        "Mail": "galesa@ballardspahr.com",
+        "Phone": "206.223.7127",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Thomas J. Gallagher IV",
+        "Role": "OF COUNSEL",
+        "Mail": "Gallaghert@ballardspahr.com",
+        "Phone": "215.864.8383",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Katie Gallagher",
+        "Role": "PARTNER",
+        "Mail": "gallagherk@ballardspahr.com",
+        "Phone": "503.778.2142",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Emily T. Gallin",
+        "Role": "ATTORNEY",
+        "Mail": "galline@ballardspahr.com",
+        "Phone": "410.528.5631",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Larry S. Gangnes",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "gangnesl@ballardspahr.com",
+        "Phone": "206.223.7036",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Garland W. Gantt, III",
+        "Role": "OF COUNSEL",
+        "Mail": "ganttg@ballardspahr.com",
+        "Phone": "202.661.7607",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Craig Solomon Ganz",
+        "Role": "PARTNER",
+        "Mail": "ganzc@ballardspahr.com",
+        "Phone": "424.204.4352",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Mark R. Gaylord",
+        "Role": "PARTNER",
+        "Mail": "gaylord@ballardspahr.com",
+        "Phone": "801.531.3070",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Colin M. Gaynor",
+        "Role": "PARTNER",
+        "Mail": "gaynorc@ballardspahr.com",
+        "Phone": "410.528.5512",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Alexander J. Gee",
+        "Role": "ASSOCIATE",
+        "Mail": "geea@ballardspahr.com",
+        "Phone": "678.420.9464",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Mary Jo George",
+        "Role": "PARTNER",
+        "Mail": "george@ballardspahr.com",
+        "Phone": "202.661.2208",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Paul B. George",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "georgep@ballardspahr.com",
+        "Phone": "503.778.2145",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Andrew J. Geppert",
+        "Role": "OF COUNSEL",
+        "Mail": "gepperta@ballardspahr.com",
+        "Phone": "503.778.2116",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Brad Gershel",
+        "Role": "OF COUNSEL",
+        "Mail": "gershelb@ballardspahr.com",
+        "Phone": "646.346.8034",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Laura C. Giles",
+        "Role": "PARTNER",
+        "Mail": "gilesl@ballardspahr.com",
+        "Phone": "602.798.5503",
+        "Location": "New York"
+    },
+    {
+        "Name": "Patrick R. Gillard",
+        "Role": "PARTNER",
+        "Mail": "gillard@ballardspahr.com",
+        "Phone": "215.864.8536",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Brigitta F. Glunk",
+        "Role": "ASSOCIATE",
+        "Mail": "glunkb@ballardspahr.com",
+        "Phone": "215.864.8278",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Brendan P. Glynn",
+        "Role": "ASSOCIATE",
+        "Mail": "glynnb@ballardspahr.com",
+        "Phone": "202.661.7632",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "M. Norman Goldberger",
+        "Role": "PARTNER",
+        "Mail": "goldbergerm@ballardspahr.com",
+        "Phone": "215.864.8850",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Daniel Goodman",
+        "Role": "ASSOCIATE",
+        "Mail": "goodmand@ballardspahr.com",
+        "Phone": "206.223.7955",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Donald R. Gordon",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "gordond@ballardspahr.com",
+        "Phone": "424.204.4366",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Joyce J. Gorman",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "gormanj@ballardspahr.com",
+        "Phone": "202.661.2217",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Zachary Gorman",
+        "Role": "PARTNER",
+        "Mail": "gormanz@ballardspahr.com",
+        "Phone": "215.864.8467",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Elliot I. Griffin",
+        "Role": "ASSOCIATE",
+        "Mail": "griffinei@ballardspahr.com",
+        "Phone": "215.864.8258",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Thomas F. Grohman",
+        "Role": "PARTNER",
+        "Mail": "grohmant@ballardspahr.com",
+        "Phone": "206.223.7044",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "David B. Gross",
+        "Role": "ASSOCIATE",
+        "Mail": "grossd@ballardspahr.com",
+        "Phone": "215.864.8375",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Christopher R. Grote",
+        "Role": "PARTNER",
+        "Mail": "grotec@ballardspahr.com",
+        "Phone": "612.371.3226",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Maria Groznik",
+        "Role": "ASSOCIATE",
+        "Mail": "groznikm@ballardspahr.com",
+        "Phone": "801.531.3019",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Terence M. Grugan",
+        "Role": "PARTNER",
+        "Mail": "grugant@ballardspahr.com",
+        "Phone": "215.864.8320",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Gerald J. Guarcini",
+        "Role": "PARTNER",
+        "Mail": "guarcini@ballardspahr.com",
+        "Phone": "215.864.8625",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Teri M. Guarnaccia",
+        "Role": "PARTNER",
+        "Mail": "guarnacciat@ballardspahr.com",
+        "Phone": "410.528.5526",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Kaitlin M. Gurney",
+        "Role": "PARTNER",
+        "Mail": "gurneyk@ballardspahr.com",
+        "Phone": "215.864.8585",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Andrew W. Gust",
+        "Role": "ASSOCIATE",
+        "Mail": "gusta@ballardspahr.com",
+        "Phone": "206.223.7033",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Diego A. Guti\u00e9rrez",
+        "Role": "ASSOCIATE",
+        "Mail": "gutierrezd@ballardspahr.com",
+        "Phone": "503.778.2176",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Robert S. Gutierrez",
+        "Role": "OF COUNSEL",
+        "Mail": "gutierrezr@ballardspahr.com",
+        "Phone": "424.204.4370",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Morgan D. Haas",
+        "Role": "ASSOCIATE",
+        "Mail": "haasm@ballardspahr.com",
+        "Phone": "215.864.8514",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Kenneth R. Haglund",
+        "Role": "PARTNER",
+        "Mail": "haglundk@ballardspahr.com",
+        "Phone": "503.778.2148",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Peter A. Hamberger",
+        "Role": "ASSOCIATE",
+        "Mail": "hambergerp@ballardspahr.com",
+        "Phone": "303.299.7386",
+        "Location": "Denver"
+    },
+    {
+        "Name": "April Hamlin",
+        "Role": "PARTNER",
+        "Mail": "hamlina@ballardspahr.com",
+        "Phone": "612.371.3522",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Jim Hannon",
+        "Role": "COUNSEL",
+        "Mail": "hannonj@ballardspahr.com",
+        "Phone": "678.420.9360",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Eben C. Hansel",
+        "Role": "PARTNER",
+        "Mail": "hansele@ballardspahr.com",
+        "Phone": "410.528.5659",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Brooke A. Harms",
+        "Role": "ASSOCIATE",
+        "Mail": "harmsb@ballardspahr.com",
+        "Phone": "605.978.5208",
+        "Location": "Sioux Falls"
+    },
+    {
+        "Name": "Theodore J. Hartl",
+        "Role": "PARTNER",
+        "Mail": "hartlt@ballardspahr.com",
+        "Phone": "303.454.0528",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Robert J. Hartman",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "hartmanr@ballardspahr.com",
+        "Phone": "612.371.3520",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Christopher A. Hatfield",
+        "Role": "ASSOCIATE",
+        "Mail": "hatfieldc@ballardspahr.com",
+        "Phone": "202.661.2263",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Thomas A. Hauser",
+        "Role": "PARTNER",
+        "Mail": "hauser@ballardspahr.com",
+        "Phone": "410.528.5691",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Samuel M. Haward",
+        "Role": "ASSOCIATE",
+        "Mail": "hawards@ballardspahr.com",
+        "Phone": "302.252.2865",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Kaylin R. Hawkins",
+        "Role": "ASSOCIATE",
+        "Mail": "hawkinsk@ballardspahr.com",
+        "Phone": "215.864.8322",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Tyler M. Hawkins",
+        "Role": "ATTORNEY",
+        "Mail": "hawkinst@ballardspahr.com",
+        "Phone": "801.531.3034",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "David A. Haworth",
+        "Role": "PARTNER",
+        "Mail": "haworthd@ballardspahr.com",
+        "Phone": "856.873.5525",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Kevin M. Hayne",
+        "Role": "ASSOCIATE",
+        "Mail": "haynek@ballardspahr.com",
+        "Phone": "215.864.8319",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Thomas W. Hazlett",
+        "Role": "PARTNER",
+        "Mail": "hazlettt@ballardspahr.com",
+        "Phone": "215.864.8338",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Ryan D. Heck",
+        "Role": "PARTNER",
+        "Mail": "heckr@ballardspahr.com",
+        "Phone": "612.371.2406",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Brandon Hegstrom",
+        "Role": "SENIOR ATTORNEY",
+        "Mail": "hegstromb@ballardspahr.com",
+        "Phone": "612.371.3239",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Leslie C. Heilman",
+        "Role": "PARTNER",
+        "Mail": "heilmanl@ballardspahr.com",
+        "Phone": "302.252.4446",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Charles S. Henck",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "henck@ballardspahr.com",
+        "Phone": "202.661.2209",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Drew Hensley",
+        "Role": "ASSOCIATE",
+        "Mail": "hensleyd@ballardspahr.com",
+        "Phone": "602.798.5475",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Kelly L. Herrmann",
+        "Role": "ASSOCIATE",
+        "Mail": "herrmannkl@ballardspahr.com",
+        "Phone": "605.978.5257",
+        "Location": "Sioux Falls"
+    },
+    {
+        "Name": "Morgan Hicks",
+        "Role": "ASSOCIATE",
+        "Mail": "hicksm@ballardspahr.com",
+        "Phone": "303.299.7332",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Wallace G. Hilke",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "hilkew@ballardspahr.com",
+        "Phone": "612.371.3298",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Charles S. Hirsch",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "hirsch@ballardspahr.com",
+        "Phone": "410.528.5503",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Helen Hitz",
+        "Role": "ASSOCIATE",
+        "Mail": "hitzh@ballardspahr.com",
+        "Phone": "602.798.5467",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Henry E. Hockeimer, Jr.",
+        "Role": "PARTNER",
+        "Mail": "hockeimerh@ballardspahr.com",
+        "Phone": "215.864.8204",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Tyler Hodgin",
+        "Role": "ASSOCIATE",
+        "Mail": "hodgint@ballardspahr.com",
+        "Phone": "602.798.5413",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Craig C. Hoffman",
+        "Role": "PARTNER",
+        "Mail": "hoffmanc@ballardspahr.com",
+        "Phone": "602.798.5437",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Joshua W. Hoggard",
+        "Role": "SENIOR ATTORNEY",
+        "Mail": "hoggardj@ballardspahr.com",
+        "Phone": "801.531.3015",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Mackenzie Holden",
+        "Role": "ASSOCIATE",
+        "Mail": "holdenm@ballardspahr.com",
+        "Phone": "602.798.5471",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Robert F. Holloway",
+        "Role": "CHIEF INFORMATION OFFICER",
+        "Mail": "hollowayr@ballardspahr.com",
+        "Phone": "215.864.8450",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Kyra Honkanen",
+        "Role": "ASSOCIATE",
+        "Mail": "honkanenk@ballardspahr.com",
+        "Phone": "612.371.2470",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Lewis M. Horowitz",
+        "Role": "PARTNER",
+        "Mail": "horowitzl@ballardspahr.com",
+        "Phone": "206.223.7401",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Holly V. Horsley",
+        "Role": "PARTNER",
+        "Mail": "horsleyh@ballardspahr.com",
+        "Phone": "856.761.3472",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "David G. Hosenpud",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "hosenpudd@ballardspahr.com",
+        "Phone": "503.778.2141",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Gina A. Hough",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "houghg@ballardspahr.com",
+        "Phone": "202.661.7630",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Brianna Howard",
+        "Role": "ASSOCIATE",
+        "Mail": "howardbr@ballardspahr.com",
+        "Phone": "424.204.4336",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Brian D. Huben",
+        "Role": "PARTNER",
+        "Mail": "hubenb@ballardspahr.com",
+        "Phone": "424.204.4353",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Charles C. Huber",
+        "Role": "PARTNER",
+        "Mail": "huberc@ballardspahr.com",
+        "Phone": "206.223.7265",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Charles F. Hudson",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "hudsonc@ballardspahr.com",
+        "Phone": "503.778.2178",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Jonathan P. Hummel",
+        "Role": "ASSOCIATE",
+        "Mail": "hummelj@ballardspahr.com",
+        "Phone": "678.420.9434",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Scott S. Humphreys",
+        "Role": "PARTNER",
+        "Mail": "humphreyss@ballardspahr.com",
+        "Phone": "424.204.4373",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "John F. Hundley",
+        "Role": "OF COUNSEL",
+        "Mail": "hundleyj@ballardspahr.com",
+        "Phone": "202.661.2212",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Courtney E. Hunter",
+        "Role": "OF COUNSEL",
+        "Mail": "hunterc@ballardspahr.com",
+        "Phone": "202.661.7679",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Beau Hurtig",
+        "Role": "OF COUNSEL",
+        "Mail": "hurtigb@ballardspahr.com",
+        "Phone": "612.371.2419",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Peter A. Hvidston",
+        "Role": "ASSOCIATE",
+        "Mail": "hvidstonp@ballardspahr.com",
+        "Phone": "612.371.3246",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "William B. Igoe",
+        "Role": "PARTNER",
+        "Mail": "igoew@ballardspahr.com",
+        "Phone": "215.864.8678",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Daniel Imahiyerobo",
+        "Role": "ASSOCIATE",
+        "Mail": "imahiyerobod@ballardspahr.com",
+        "Phone": "646.346.8003",
+        "Location": "New York"
+    },
+    {
+        "Name": "Alena Ivanov",
+        "Role": "ASSOCIATE",
+        "Mail": "ivanova@ballardspahr.com",
+        "Phone": "206.223.7952",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Katherine Jackson",
+        "Role": "OF COUNSEL",
+        "Mail": "jacksonkp@ballardspahr.com",
+        "Phone": "206.223.7735",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Sean D. Jackson",
+        "Role": "PARTNER",
+        "Mail": "jacksons@ballardspahr.com",
+        "Phone": "206.223.7097",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Hara K. Jacobs",
+        "Role": "PARTNER",
+        "Mail": "jacobsh@ballardspahr.com",
+        "Phone": "215.864.8209",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Allison J. Jacobsen",
+        "Role": "OF COUNSEL",
+        "Mail": "jacobsena@ballardspahr.com",
+        "Phone": "503.778.2183",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Brewster H. Jamieson",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "jamiesonb@ballardspahr.com",
+        "Phone": "907.264.3325",
+        "Location": "Anchorage"
+    },
+    {
+        "Name": "Craig L. Janes",
+        "Role": "SENIOR TAX ADVISER",
+        "Mail": " janesc@ballardspahr.com",
+        "Phone": "206.223.7085",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Kenneth M. Jarin",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "jarink@ballardspahr.com",
+        "Phone": "215.864.8135",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jonas Jarvholm, Ph.D.",
+        "Role": "PARTNER",
+        "Mail": "jarvholmj@ballardspahr.com",
+        "Phone": "678.420.9378",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Peter Jaslow",
+        "Role": "PARTNER",
+        "Mail": "jaslowp@ballardspahr.com",
+        "Phone": "215.864.8737",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Timothy W. Jenkins",
+        "Role": "PARTNER",
+        "Mail": "jenkinst@ballardspahr.com",
+        "Phone": "202.661.2224",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Noah Jennings",
+        "Role": "ASSOCIATE",
+        "Mail": "jenningsn@ballardspahr.com",
+        "Phone": "206.223.7112",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Jenifer A. Jewkes",
+        "Role": "PARTNER",
+        "Mail": "jewkesj@ballardspahr.com",
+        "Phone": "206.223.7090",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Beth G. Joffe",
+        "Role": "OF COUNSEL",
+        "Mail": "joffeb@ballardspahr.com",
+        "Phone": "206.223.7048",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Aaron C. Johnson",
+        "Role": "PARTNER",
+        "Mail": "johnsonac@ballardspahr.com",
+        "Phone": "206.223.7430",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Benjamin W. Johnson",
+        "Role": "PARTNER",
+        "Mail": "johnsonbw@ballardspahr.com",
+        "Phone": "612.371.6223",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Bruce F. Johnson",
+        "Role": "PARTNER",
+        "Mail": "johnsonbf@ballardspahr.com",
+        "Phone": "702.868.7546",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Elliot G. Johnson",
+        "Role": "ASSOCIATE",
+        "Mail": "johnsoneg@ballardspahr.com",
+        "Phone": "424.204.4324",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Erik L. Johnson",
+        "Role": "ATTORNEY",
+        "Mail": "johnsonel@ballardspahr.com",
+        "Phone": "202.661.2216",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Ricardo E. Johnson III",
+        "Role": "ASSOCIATE",
+        "Mail": "johnsonre@ballardspahr.com",
+        "Phone": "612.371.2471",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Belinda W. Jones",
+        "Role": "CHIEF FINANCIAL OFFICER",
+        "Mail": "jonesbw@ballardspahr.com",
+        "Phone": "215.864.8580",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Christopher A. Jones",
+        "Role": "PARTNER",
+        "Mail": "jonesc@ballardspahr.com",
+        "Phone": "215.864.8424",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Sophie E. Jordan",
+        "Role": "ASSOCIATE",
+        "Mail": "jordanse@ballardspahr.com",
+        "Phone": "678.420.9331",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Erin Campbell Kadowaki",
+        "Role": "ASSOCIATE",
+        "Mail": "kadowakie@ballardspahr.com",
+        "Phone": "424.204.4347",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Colin P. Kane",
+        "Role": "ASSOCIATE",
+        "Mail": "kanec@ballardspahr.com",
+        "Phone": "215.864.8406",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Erika Olsen Kap",
+        "Role": "ATTORNEY",
+        "Mail": "kape@ballardspahr.com",
+        "Phone": "801.517.6891",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Jacquelyn A. Kapinos",
+        "Role": "ASSOCIATE",
+        "Mail": "kapinosj@ballardspahr.com",
+        "Phone": "410.528.5642",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Alan S. Kaplinsky",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "kaplinsky@ballardspahr.com",
+        "Phone": "215.864.8544",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Anna Z. Kastenberg",
+        "Role": "ASSOCIATE",
+        "Mail": "kastenberga@ballardspahr.com",
+        "Phone": "215.864.8217",
+        "Location": "New York"
+    },
+    {
+        "Name": "Stephen J. Kastenberg",
+        "Role": "PARTNER",
+        "Mail": "kastenberg@ballardspahr.com",
+        "Phone": "215.864.8122",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "BK Katzmann",
+        "Role": "ASSOCIATE",
+        "Mail": "katzmannb@ballardspahr.com",
+        "Phone": "215.864.8555",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Anna Kaul",
+        "Role": "ASSOCIATE",
+        "Mail": "kaula@ballardspahr.com",
+        "Phone": "612.371.3224",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Brian N. Kearney",
+        "Role": "ASSOCIATE",
+        "Mail": "kearneyb@ballardspahr.com",
+        "Phone": "215.864.8265",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Benjamin A. Kelley",
+        "Role": "PARTNER",
+        "Mail": "kelleyb@ballardspahr.com",
+        "Phone": "410.528.5515",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Matthew E. Kelley",
+        "Role": "OF COUNSEL",
+        "Mail": "kelleym@ballardspahr.com",
+        "Phone": "202.508.1112",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "John G. Kerkorian",
+        "Role": "PARTNER",
+        "Mail": "kerkorianj@ballardspahr.com",
+        "Phone": "602.798.5408",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Eric Kerkvliet",
+        "Role": "OF COUNSEL",
+        "Mail": "kerkvliete@ballardspahr.com",
+        "Phone": "605.978.5235",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Justin E. Kerner",
+        "Role": "SENIOR ATTORNEY",
+        "Mail": "kernerj@ballardspahr.com",
+        "Phone": "856.761.3448",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Michael T. Kersten",
+        "Role": "OF COUNSEL",
+        "Mail": "kersten@ballardspahr.com",
+        "Phone": "410.528.5853",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Andy Keyes",
+        "Role": "ASSOCIATE",
+        "Mail": "keyesa@ballardspahr.com",
+        "Phone": "612.371.3251",
+        "Location": "Sioux Falls"
+    },
+    {
+        "Name": "Denise M. Keyser",
+        "Role": "PARTNER",
+        "Mail": "keyserd@ballardspahr.com",
+        "Phone": "856.761.3442",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Heath Khan",
+        "Role": "ASSOCIATE",
+        "Mail": "khanh@ballardspahr.com",
+        "Phone": "215.864.8213",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Anastasia G. Khokhryakova",
+        "Role": "PARTNER",
+        "Mail": "AK@ballardspahr.com",
+        "Phone": "303.299.7310",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Benjamin Kim",
+        "Role": "ASSOCIATE",
+        "Mail": "kimb@ballardspahr.com",
+        "Phone": "646.346.8009",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Mia Kim",
+        "Role": "ASSOCIATE",
+        "Mail": "kimmi@ballardspahr.com",
+        "Phone": "215.864.8163",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Robert C. Kim",
+        "Role": "PARTNER",
+        "Mail": "kimr@ballardspahr.com",
+        "Phone": "702.868.7512",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Stephanie S. Kim",
+        "Role": "OF COUNSEL",
+        "Mail": "kimss@ballardspahr.com",
+        "Phone": "202.661.2281",
+        "Location": "New York"
+    },
+    {
+        "Name": "Adrian R. King, Jr.",
+        "Role": "PARTNER",
+        "Mail": "kinga@ballardspahr.com",
+        "Phone": "215.864.8622",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Brian T. Kiolbasa",
+        "Role": "OF COUNSEL",
+        "Mail": "kiolbasab@ballardspahr.com",
+        "Phone": "503.778.2103",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Benjamin D. Kirk",
+        "Role": "ASSOCIATE",
+        "Mail": "kirkb@ballardspahr.com",
+        "Phone": "678.420.9416",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Gary M. Kirk",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "kirkg@ballardspahr.com",
+        "Phone": "206.223.6001",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Andrew S. Kirshenbaum",
+        "Role": "ATTORNEY",
+        "Mail": "kirshenbauma@ballardspahr.com",
+        "Phone": "503.778.2163",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Ashley I. Kissinger",
+        "Role": "OF COUNSEL",
+        "Mail": "kissingera@ballardspahr.com",
+        "Phone": "303.376.2407",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Michael T. Kitson",
+        "Role": "PARTNER",
+        "Mail": "kitsonm@ballardspahr.com",
+        "Phone": "206.223.7081",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Daniel A. Kittle",
+        "Role": "OF COUNSEL",
+        "Mail": "kittled@ballardspahr.com",
+        "Phone": "206.223.7074",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Kimberly W. Klayman",
+        "Role": "PARTNER",
+        "Mail": "klaymank@ballardspahr.com",
+        "Phone": "215.864.8792",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Justin P. Klein",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "kleinj@ballardspahr.com",
+        "Phone": "215.864.8606",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Michele A. Kliem, Ph.D.",
+        "Role": "PATENT AGENT",
+        "Mail": "kliemm@ballardspahr.com",
+        "Phone": "678.420.9560",
+        "Location": "Boulder"
+    },
+    {
+        "Name": "Eric J. Kodesch",
+        "Role": "PARTNER",
+        "Mail": "kodesche@ballardspahr.com",
+        "Phone": "503.778.2107",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Katlyn E. Koegel",
+        "Role": "ASSOCIATE",
+        "Mail": "koegelk@ballardspahr.com",
+        "Phone": "202.661.2238",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Dailey Koga",
+        "Role": "ASSOCIATE",
+        "Mail": "kogad@ballardspahr.com",
+        "Phone": "206.223.7073",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Mark S. Kokanovich",
+        "Role": "OF COUNSEL",
+        "Mail": "kokanovichm@ballardspahr.com",
+        "Phone": "424.204.4325",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Wendi L. Kotzen",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "kotzenw@ballardspahr.com",
+        "Phone": "215.864.8305",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Laura E. Krabill",
+        "Role": "PARTNER",
+        "Mail": "krabilll@ballardspahr.com",
+        "Phone": "215.864.8848",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Rory Kress Mandel",
+        "Role": "ASSOCIATE",
+        "Mail": "mandelr@ballardspahr.com",
+        "Phone": "215.864.8130",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Rebecca Krikorian Clary",
+        "Role": "ASSOCIATE",
+        "Mail": "claryr@ballardspahr.com",
+        "Phone": "424.204.4322",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Michael R. Kuhn",
+        "Role": "PARTNER",
+        "Mail": "kuhnm@ballardspahr.com",
+        "Phone": "612.371.3282",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Hari Kumar",
+        "Role": "ASSOCIATE",
+        "Mail": "kumarh@ballardspahr.com",
+        "Phone": "206.223.7072",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Matthew G. Kussmaul",
+        "Role": "ASSOCIATE",
+        "Mail": "kussmaulm@ballardspahr.com",
+        "Phone": "302.252.4452",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Brian W. LaCorte",
+        "Role": "PARTNER",
+        "Mail": "lacorteb@ballardspahr.com",
+        "Phone": "602.798.5449",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Jessica Laderman Origlio",
+        "Role": "ASSOCIATE",
+        "Mail": "ladermanj@ballardspahr.com",
+        "Phone": "215.864.8282",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Catherine M. LaGrange",
+        "Role": "ASSOCIATE",
+        "Mail": "lagrangec@ballardspahr.com",
+        "Phone": "612.371.2407",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Peter Lam",
+        "Role": "OF COUNSEL",
+        "Mail": "lamp@ballardspahr.com",
+        "Phone": "646.346.8059",
+        "Location": "New York"
+    },
+    {
+        "Name": "Matthew D. Lamb",
+        "Role": "SENIOR ATTORNEY",
+        "Mail": "lambm@ballardspahr.com",
+        "Phone": "202.661.7617",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Paul Lambert",
+        "Role": "PARTNER",
+        "Mail": "lambertp@ballardspahr.com",
+        "Phone": "206.223.7724",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Hilary Lane",
+        "Role": "PARTNER",
+        "Mail": "laneh@ballardspahr.com",
+        "Phone": "646.346.8032",
+        "Location": "New York"
+    },
+    {
+        "Name": "Jamie R. Lanier",
+        "Role": "PARTNER",
+        "Mail": "lanierjr@ballardspahr.com",
+        "Phone": "206.223.7716",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Paul Lantieri III",
+        "Role": "PARTNER",
+        "Mail": "lantierip@ballardspahr.com",
+        "Phone": "215.864.8279",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jon M. Laria",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "laria@ballardspahr.com",
+        "Phone": "410.528.5506",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Janet Knauss Larsen",
+        "Role": "PARTNER",
+        "Mail": "larsenj@ballardspahr.com",
+        "Phone": "503.778.2154",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Kristen Larson",
+        "Role": "OF COUNSEL",
+        "Mail": "larsonk@ballardspahr.com",
+        "Phone": "612.371.2474",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Debra S. Lawrence",
+        "Role": "CHIEF OPERATING OFFICER",
+        "Mail": "lawrenced@ballardspahr.com",
+        "Phone": "215.864.8902",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Kennison C. Lay",
+        "Role": "ASSOCIATE",
+        "Mail": "layk@ballardspahr.com",
+        "Phone": "602.798.5573",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Rebecca A. Leaf",
+        "Role": "OF COUNSEL",
+        "Mail": "leafr@ballardspahr.com",
+        "Phone": "410.528.5549",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Jason A. Leckerman",
+        "Role": "PARTNER",
+        "Mail": "leckermanj@ballardspahr.com",
+        "Phone": "215.864.8266",
+        "Location": "New York"
+    },
+    {
+        "Name": "Edward I. Leeds",
+        "Role": "COUNSEL",
+        "Mail": "leeds@ballardspahr.com",
+        "Phone": "215.864.8419",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Katie Leesman",
+        "Role": "OF COUNSEL",
+        "Mail": "leesmank@ballardspahr.com",
+        "Phone": "202.661.2266",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Philip E. Legendy",
+        "Role": "OF COUNSEL",
+        "Mail": "legendyp@ballardspahr.com",
+        "Phone": "646.346.8073",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Kelly A. Lenahan-Pfahlert",
+        "Role": "SENIOR ATTORNEY",
+        "Mail": "lenahanpfahlertk@ballardspahr.com",
+        "Phone": "215.861.7311",
+        "Location": "New York"
+    },
+    {
+        "Name": "Anthony Lepore",
+        "Role": "SENIOR ADVISER",
+        "Mail": "leporea@ballardspahr.com",
+        "Phone": "215.861.7304",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Danielle L. Letting, Ph.D.",
+        "Role": "ATTORNEY",
+        "Mail": "lettingd@ballardspahr.com",
+        "Phone": "215.864.8851",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Harry A. Levin",
+        "Role": "ASSOCIATE",
+        "Mail": "levinh@ballardspahr.com",
+        "Phone": "215.864.8485",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Mark J. Levin",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "levinmj@ballardspahr.com",
+        "Phone": "215.864.8235",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Shira Levin",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "levins@ballardspahr.com",
+        "Phone": "206.223.7068",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Eugene R. Licker",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "lickere@ballardspahr.com",
+        "Phone": "646.346.8074",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Robert T. Lieber, Jr.",
+        "Role": "OF COUNSEL",
+        "Mail": "lieberr@ballardspahr.com",
+        "Phone": "303.299.7336",
+        "Location": "New York"
+    },
+    {
+        "Name": "Elizabeth A. Lilly",
+        "Role": "ASSOCIATE",
+        "Mail": "lillye@ballardspahr.com",
+        "Phone": "215.864.8222",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Kelly Lin",
+        "Role": "ASSOCIATE",
+        "Mail": "link@ballardspahr.com",
+        "Phone": "646.346.8031",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Matthew J. Littlefield",
+        "Role": "COUNSEL",
+        "Mail": "littlefieldm@ballardspahr.com",
+        "Phone": "678.420.9584",
+        "Location": "New York"
+    },
+    {
+        "Name": "Ann T. Loftus",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "loftusa@ballardspahr.com",
+        "Phone": "215.864.8175",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Abraham K. Lorber",
+        "Role": "OF COUNSEL",
+        "Mail": "lorbera@ballardspahr.com",
+        "Phone": "206.223.7434",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Rachel A. Loscheider",
+        "Role": "ASSOCIATE",
+        "Mail": "loscheiderr@ballardspahr.com",
+        "Phone": "612.371.3287",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Shirley S. Lou-Magnuson",
+        "Role": "PARTNER",
+        "Mail": "loumagnusons@ballardspahr.com",
+        "Phone": "206.223.7059",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Thomas G. Lovett, IV",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "lovettt@ballardspahr.com",
+        "Phone": "612.371.3270",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Karli Lubin Talmo",
+        "Role": "ASSOCIATE",
+        "Mail": "talmok@ballardspahr.com",
+        "Phone": "215.864.8751",
+        "Location": "Anchorage"
+    },
+    {
+        "Name": "Zach Lundin",
+        "Role": "ASSOCIATE",
+        "Mail": "lundinz@ballardspahr.com",
+        "Phone": "206.223.7119",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Shelah F. Lynn",
+        "Role": "OF COUNSEL",
+        "Mail": "lynns@ballardspahr.com",
+        "Phone": "202.661.7653",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jacqueline Mabatah",
+        "Role": "ASSOCIATE",
+        "Mail": "mabatahj@ballardspahr.com",
+        "Phone": "801.531.3063",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Kimberly D. Magrini",
+        "Role": "PARTNER",
+        "Mail": "magrinik@ballardspahr.com",
+        "Phone": "646.346.8086",
+        "Location": "New York"
+    },
+    {
+        "Name": "Anna A. Mahaney",
+        "Role": "PARTNER",
+        "Mail": "mahaneya@ballardspahr.com",
+        "Phone": "410.528.5855",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Ian T. Maher",
+        "Role": "OF COUNSEL",
+        "Mail": "maheri@ballardspahr.com",
+        "Phone": "503.778.2166",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Brandon Eugene Mahrt",
+        "Role": "ASSOCIATE",
+        "Mail": "mahrtb@ballardspahr.com",
+        "Phone": "503.778.2175",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Jamie K. Major",
+        "Role": "ASSOCIATE",
+        "Mail": "majorjk@ballardspahr.com",
+        "Phone": "215.864.8854",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Tina R. Makoulian",
+        "Role": "PARTNER",
+        "Mail": "makoulian@ballardspahr.com",
+        "Phone": "215.864.8713",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Stefanie Malone-Zeitz",
+        "Role": "ATTORNEY",
+        "Mail": "malonezeitzs@ballardspahr.com",
+        "Phone": "856.761.3414",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Grant M. Mantell",
+        "Role": "ASSOCIATE",
+        "Mail": "mantellg@ballardspahr.com",
+        "Phone": "602.798.5417",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Manny Marcos",
+        "Role": "ASSOCIATE",
+        "Mail": "marcosm@ballardspahr.com",
+        "Phone": "646.346.8055",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "David J. Margules",
+        "Role": "PARTNER",
+        "Mail": "margulesd@ballardspahr.com",
+        "Phone": "302.252.4431",
+        "Location": "New York"
+    },
+    {
+        "Name": "Diane Markert",
+        "Role": "OF COUNSEL",
+        "Mail": "markertd@ballardspahr.com",
+        "Phone": "702.868.7526",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Carin A. Marney",
+        "Role": "PARTNER",
+        "Mail": "marneyc@ballardspahr.com",
+        "Phone": "206.223.7273",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Timothy P. Martin",
+        "Role": "PARTNER",
+        "Mail": "martint@ballardspahr.com",
+        "Phone": "202.661.7655",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Scott D. Marty, Ph.D.",
+        "Role": "PARTNER",
+        "Mail": "martys@ballardspahr.com",
+        "Phone": "678.420.9408",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "James V. Masella III",
+        "Role": "PARTNER",
+        "Mail": "masellaj@ballardspahr.com",
+        "Phone": "646.346.8024",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Katie Matison",
+        "Role": "PARTNER",
+        "Mail": "matisonk@ballardspahr.com",
+        "Phone": "206.223.7029",
+        "Location": "New York"
+    },
+    {
+        "Name": "Gail E. Mautner",
+        "Role": "PARTNER",
+        "Mail": "mautnerg@ballardspahr.com",
+        "Phone": "206.223.7099",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Lisa Mayo Haynes",
+        "Role": "DIRECTOR OF TECHNOLOGY INNOVATION",
+        "Mail": "haynesl@ballardspahr.com",
+        "Phone": "215.864.8430",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Megan McCarthy",
+        "Role": "ASSOCIATE",
+        "Mail": "mccarthym@ballardspahr.com",
+        "Phone": "612.371.3228",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Colleen E. McCarty",
+        "Role": "OF COUNSEL",
+        "Mail": "mccartyc@ballardspahr.com",
+        "Phone": "702.868.7535",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Amy M. McClain",
+        "Role": "PARTNER",
+        "Mail": "mcclaina@ballardspahr.com",
+        "Phone": "410.528.5592",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Matthew N. McClure",
+        "Role": "PARTNER",
+        "Mail": "mcclure@ballardspahr.com",
+        "Phone": "215.864.8771",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Sara A. McCormick",
+        "Role": "PARTNER",
+        "Mail": "mccormicks@ballardspahr.com",
+        "Phone": "215.864.8734",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Devon McCurdy",
+        "Role": "PARTNER",
+        "Mail": "mccurdyd@ballardspahr.com",
+        "Phone": "206.223.7739",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "William Alden McDaniel, Jr.",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "mcdanielw@ballardspahr.com",
+        "Phone": "410.528.5502",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Michael R. McDonald",
+        "Role": "ASSOCIATE",
+        "Mail": "mcdonaldm@ballardspahr.com",
+        "Phone": "215.864.8344",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Kelly M. McGlynn",
+        "Role": "ASSOCIATE",
+        "Mail": "mcglynnk@ballardspahr.com",
+        "Phone": "215.864.8206",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Emilia McKee Vassallo",
+        "Role": "PARTNER",
+        "Mail": "mckeevassalloe@ballardspahr.com",
+        "Phone": "215.864.8111",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Daniel JT McKenna",
+        "Role": "PARTNER",
+        "Mail": "mckennad@ballardspahr.com",
+        "Phone": "215.864.8321",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Brenna R. McLaughlin",
+        "Role": "ASSOCIATE",
+        "Mail": "mclaughlinb@ballardspahr.com",
+        "Phone": "503.778.2114",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Elizabeth K. McManus",
+        "Role": "PARTNER",
+        "Mail": "mcmanuse@ballardspahr.com",
+        "Phone": "646.346.8018",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Brian C. Meadows",
+        "Role": "PARTNER",
+        "Mail": "meadowsb@ballardspahr.com",
+        "Phone": "678.420.9414",
+        "Location": "New York"
+    },
+    {
+        "Name": "Harlan Mechling",
+        "Role": "ASSOCIATE",
+        "Mail": "mechlingh@ballardspahr.com",
+        "Phone": "503.778.2104",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Samhitha M. Medatia",
+        "Role": "OF COUNSEL",
+        "Mail": "medatias@ballardspahr.com",
+        "Phone": "678.420.9349",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Steven P. Mehr",
+        "Role": "PARTNER",
+        "Mail": "mehrs@ballardspahr.com",
+        "Phone": "424.204.4365",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Bart I. Mellits",
+        "Role": "PARTNER",
+        "Mail": "mellits@ballardspahr.com",
+        "Phone": "215.864.8701",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Avery J. Meng",
+        "Role": "ASSOCIATE",
+        "Mail": "menga@ballardspahr.com",
+        "Phone": "302.252.4445",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Jordan Meyer",
+        "Role": "ASSOCIATE",
+        "Mail": "meyerjl@ballardspahr.com",
+        "Phone": "856.761.3474",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Qingqing Miao",
+        "Role": "PARTNER",
+        "Mail": "miaoq@ballardspahr.com",
+        "Phone": "206.223.7031",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Peter V. Michaud",
+        "Role": "CHAIR",
+        "Mail": "michaudp@ballardspahr.com",
+        "Phone": "612.371.2477",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Timothy S. Middleton",
+        "Role": "ASSOCIATE",
+        "Mail": "middletont@ballardspahr.com",
+        "Phone": "856.761.3435",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Aimee L. Miller",
+        "Role": "ASSOCIATE",
+        "Mail": "milleral@ballardspahr.com",
+        "Phone": "206.223.7098",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Richard W. Miller",
+        "Role": "PARTNER",
+        "Mail": "millerrw@ballardspahr.com",
+        "Phone": "678.420.9340",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Steven M. Miller",
+        "Role": "PARTNER",
+        "Mail": "millersm@ballardspahr.com",
+        "Phone": "215.864.8310",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Trey K. Miller",
+        "Role": "ATTORNEY",
+        "Mail": "millertk@ballardspahr.com",
+        "Phone": "215.864.8239",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Jenna R. Millman",
+        "Role": "OF COUNSEL",
+        "Mail": "millmanj@ballardspahr.com",
+        "Phone": "215.864.8244",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "James E. Mills",
+        "Role": "ASSOCIATE",
+        "Mail": "millsj@ballardspahr.com",
+        "Phone": "215.864.8127",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Maxwell S. Mishkin",
+        "Role": "PARTNER",
+        "Mail": "mishkinm@ballardspahr.com",
+        "Phone": "202.508.1140",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Arbenita Misini",
+        "Role": "ASSOCIATE",
+        "Mail": "misinia@ballardspahr.com",
+        "Phone": "215.864.8724",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "James A. Mitchell",
+        "Role": "PARTNER",
+        "Mail": "mitchellj@ballardspahr.com",
+        "Phone": "646.346.8006",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Alejandro Monarez",
+        "Role": "ASSOCIATE",
+        "Mail": "monareza@ballardspahr.com",
+        "Phone": "303.299.7349",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Charles R. Moran",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "moran@ballardspahr.com",
+        "Phone": "410.528.5689",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Elizabeth G. Morgan",
+        "Role": "CHIEF PRACTICE MANAGEMENT OFFICER",
+        "Mail": "morgane@ballardspahr.com",
+        "Phone": "215.864.8572",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jeffrey C. Morgan",
+        "Role": "OF COUNSEL",
+        "Mail": "morganjc@ballardspahr.com",
+        "Phone": "678.420.9351",
+        "Location": "New York"
+    },
+    {
+        "Name": "Michael E. Morgan",
+        "Role": "PARTNER",
+        "Mail": "morganm@ballardspahr.com",
+        "Phone": "206.223.7013",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Matthew A. Morr",
+        "Role": "PARTNER",
+        "Mail": "morrm@ballardspahr.com",
+        "Phone": "303.299.7366",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Stephanie C. Morriss",
+        "Role": "ASSOCIATE",
+        "Mail": "morrisss@ballardspahr.com",
+        "Phone": "215.864.8211",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Darnell J. Morrow",
+        "Role": "ASSOCIATE",
+        "Mail": "morrowd@ballardspahr.com",
+        "Phone": "202.777.6007",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Mary Lee Moseley",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "moseleym@ballardspahr.com",
+        "Phone": "206.223.7132",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Beth Moskow-Schnoll",
+        "Role": "PARTNER",
+        "Mail": "moskowb@ballardspahr.com",
+        "Phone": "302.252.4447",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Christopher A. Motta-Wurst",
+        "Role": "OF COUNSEL",
+        "Mail": "mottawurstc@ballardspahr.com",
+        "Phone": "206.223.7276",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Elanor A. Mulhern",
+        "Role": "SENIOR ATTORNEY",
+        "Mail": "mulherne@ballardspahr.com",
+        "Phone": "215.864.8393",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Mary J. Mullany",
+        "Role": "PARTNER",
+        "Mail": "mullany@ballardspahr.com",
+        "Phone": "215.864.8631",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Macey L. Muller",
+        "Role": "ASSOCIATE",
+        "Mail": "mullerml@ballardspahr.com",
+        "Phone": "612.371.2462",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Dana Mydland",
+        "Role": "ASSOCIATE",
+        "Mail": "mydlandd@ballardspahr.com",
+        "Phone": "206.223.7135",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Michael S. Myers",
+        "Role": "PARTNER",
+        "Mail": "myersm@ballardspahr.com",
+        "Phone": "602.798.5446",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Chloe Nakaya",
+        "Role": "ASSOCIATE",
+        "Mail": "nakayac@ballardspahr.com",
+        "Phone": "503.778.2108",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Isabella Salom\u00e3o Nascimento",
+        "Role": "ASSOCIATE",
+        "Mail": "salomaonascimentoi @ballardspahr.com",
+        "Phone": "612.371.3281",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "William B. Nash",
+        "Role": "ASSOCIATE",
+        "Mail": "nashw@ballardspahr.com",
+        "Phone": "202.661.7604",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Joshua T. Natzel",
+        "Role": "PARTNER",
+        "Mail": "natzelj@ballardspahr.com",
+        "Phone": "612.752.1041",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Jeremy J. Nauman",
+        "Role": "ASSOCIATE",
+        "Mail": "naumanj@ballardspahr.com",
+        "Phone": "612.371.2445",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Charles E. Nelson",
+        "Role": "PARTNER",
+        "Mail": "nelsonc@ballardspahr.com",
+        "Phone": "612.371.2438",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Michael A. Nesteroff",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "nesteroffm@ballardspahr.com",
+        "Phone": "206.223.6242",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Joel F. Newell",
+        "Role": "OF COUNSEL",
+        "Mail": "newellj@ballardspahr.com",
+        "Phone": "602.798.5459",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Raymond Nguyen",
+        "Role": "ASSOCIATE",
+        "Mail": "nguyenr@ballardspahr.com",
+        "Phone": "215.864.8269",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Skye Nickalls",
+        "Role": "OF COUNSEL",
+        "Mail": "nickallss@ballardspahr.com",
+        "Phone": "215.864.8550",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Cecilia N. Nieto",
+        "Role": "ASSOCIATE",
+        "Mail": "nietoc@ballardspahr.com",
+        "Phone": "602.798.5456",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Emilie R. Ninan",
+        "Role": "PARTNER",
+        "Mail": "ninane@ballardspahr.com",
+        "Phone": "302.252.4426",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Sarah A. Noe",
+        "Role": "ASSOCIATE",
+        "Mail": "noes@ballardspahr.com",
+        "Phone": "602.798.5486",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Katherine M. Noonan",
+        "Role": "PARTNER",
+        "Mail": "noonank@ballardspahr.com",
+        "Phone": "202.661.7657",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Monica T. Nugent",
+        "Role": "ASSOCIATE",
+        "Mail": "nugentm@ballardspahr.com",
+        "Phone": "856.761.3421",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Daniel J. Nunez",
+        "Role": "OF COUNSEL",
+        "Mail": "nunezd@ballardspahr.com",
+        "Phone": "202.661.7652",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Lee C. Nusich",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "nusichl@ballardspahr.com",
+        "Phone": "503.778.2119",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Jeannette Nyakweba",
+        "Role": "ATTORNEY",
+        "Mail": "nyakwebaj@ballardspahr.com",
+        "Phone": "202.661.7618",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Katherine L. Oaks",
+        "Role": "ASSOCIATE",
+        "Mail": "oaksk@ballardspahr.com",
+        "Phone": "215.864.8263",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Lynn Oberlander",
+        "Role": "OF COUNSEL",
+        "Mail": "oberlanderl@ballardspahr.com",
+        "Phone": "646.346.8011",
+        "Location": "New York"
+    },
+    {
+        "Name": "Mary M. O'Brien",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "obrienm@ballardspahr.com",
+        "Phone": "612.371.2401",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Jeffrey M. Odom",
+        "Role": "PARTNER",
+        "Mail": "odomj@ballardspahr.com",
+        "Phone": "206.223.7093",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Ryan O'Hollaren",
+        "Role": "ASSOCIATE",
+        "Mail": "ohollarenr@ballardspahr.com",
+        "Phone": "503.778.2120",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Dustin J. O'Quinn",
+        "Role": "PARTNER",
+        "Mail": "oquinnd@ballardspahr.com",
+        "Phone": "206.223.7949",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Heidi L.G. Orr",
+        "Role": "PARTNER",
+        "Mail": "orrh@ballardspahr.com",
+        "Phone": "206.223.7742",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Marybeth Orsini",
+        "Role": "PARTNER",
+        "Mail": "orsinim@ballardspahr.com",
+        "Phone": "646.346.8066",
+        "Location": "New York"
+    },
+    {
+        "Name": "Paul Keller Ort",
+        "Role": "ASSOCIATE",
+        "Mail": "ortp@ballardspahr.com",
+        "Phone": "215.864.8287",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Uchenna J. Osagiede",
+        "Role": "ASSOCIATE",
+        "Mail": "osagiedeu@ballardspahr.com",
+        "Phone": "202.777.6998",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Michael J. Ostermeyer",
+        "Role": "PARTNER",
+        "Mail": "ostermeyerm@ballardspahr.com",
+        "Phone": "602.798.5421",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Paul M. Ostroff",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "ostroffp@ballardspahr.com",
+        "Phone": "503.778.2122",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Erika O'Sullivan",
+        "Role": "ASSOCIATE",
+        "Mail": "osullivane@ballardspahr.com",
+        "Phone": "206.223.7039",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Anna Otsuka",
+        "Role": "ASSOCIATE",
+        "Mail": "otsukaa@ballardspahr.com",
+        "Phone": "206.223.7011",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Angela Davis Pallozzi",
+        "Role": "OF COUNSEL",
+        "Mail": "pallozzia@ballardspahr.com",
+        "Phone": "410.528.5632",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Aiste Palskyte Orszulak",
+        "Role": "ASSOCIATE",
+        "Mail": "palskyteorszulaka@ballardspahr.com",
+        "Phone": "410.528.5647",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Constantinos G. Panagopoulos",
+        "Role": "PARTNER",
+        "Mail": "cgp@ballardspahr.com",
+        "Phone": "202.661.2202",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Michael Parise",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "parisem@ballardspahr.com",
+        "Phone": "907.264.3322",
+        "Location": "Anchorage"
+    },
+    {
+        "Name": "Alexander S. Park",
+        "Role": "ASSOCIATE",
+        "Mail": "parka@ballardspahr.com",
+        "Phone": "612.371.3255",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Steve T. Park",
+        "Role": "PARTNER",
+        "Mail": "parks@ballardspahr.com",
+        "Phone": "215.864.8533",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Douglas S. Parker",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "parkerd@ballardspahr.com",
+        "Phone": "503.778.2181",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Lindsey Parker",
+        "Role": "COUNSEL",
+        "Mail": "parkerl@ballardspahr.com",
+        "Phone": "801.531.3043",
+        "Location": "Anchorage"
+    },
+    {
+        "Name": "Jill S. Parks",
+        "Role": "PARTNER",
+        "Mail": "parksj@ballardspahr.com",
+        "Phone": "202.661.2231",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Maren Parry",
+        "Role": "COUNSEL",
+        "Mail": "parrym@ballardspahr.com",
+        "Phone": "702.387.3096",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Emmy Parsons",
+        "Role": "OF COUNSEL",
+        "Mail": "parsonse@ballardspahr.com",
+        "Phone": "202.661.7603",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Pooja Patel",
+        "Role": "ASSOCIATE",
+        "Mail": "patelpo@ballardspahr.com",
+        "Phone": "215.864.8718",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Kellen F. Patterson",
+        "Role": "OF COUNSEL",
+        "Mail": "pattersonkf@ballardspahr.com",
+        "Phone": "206.223.7148",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Samantha C. Pauley",
+        "Role": "ASSOCIATE",
+        "Mail": "pauleys@ballardspahr.com",
+        "Phone": "612.371.2485",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Christopher W. Payne",
+        "Role": "PARTNER",
+        "Mail": "paynec@ballardspahr.com",
+        "Phone": "303.299.7345",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Jessica W. Payton",
+        "Role": "ASSOCIATE",
+        "Mail": "paytonj@ballardspahr.com",
+        "Phone": "801.531.3072",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Carlisle S. Pearson",
+        "Role": "ASSOCIATE",
+        "Mail": "pearsoncs@ballardspahr.com",
+        "Phone": "503.778.2137",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Brian D. Pedrow",
+        "Role": "PARTNER",
+        "Mail": "pedrow@ballardspahr.com",
+        "Phone": "215.864.8108",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Marjorie J. Peerce",
+        "Role": "PARTNER",
+        "Mail": "peercem@ballardspahr.com",
+        "Phone": "646.346.8039",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Juan Pereira",
+        "Role": "PARTNER",
+        "Mail": "pereiraj@ballardspahr.com",
+        "Phone": "202.661.7635",
+        "Location": "New York"
+    },
+    {
+        "Name": "Richard S. Perelman",
+        "Role": "PARTNER",
+        "Mail": "perelman@ballardspahr.com",
+        "Phone": "215.864.8118",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Ellie Perka",
+        "Role": "PARTNER",
+        "Mail": "perkae@ballardspahr.com",
+        "Phone": "206.223.7070",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Benjamin D. Perkins",
+        "Role": "ASSOCIATE",
+        "Mail": "perkinsb@ballardspahr.com",
+        "Phone": "678.420.9345",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Jenny N. Perkins",
+        "Role": "PARTNER",
+        "Mail": "perkinsj@ballardspahr.com",
+        "Phone": "215.864.8378",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Marissa E. Perlmutter",
+        "Role": "ASSOCIATE",
+        "Mail": "perlmutterm@ballardspahr.com",
+        "Phone": "202.661.2269",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Kristen A. Petagna",
+        "Role": "ASSOCIATE",
+        "Mail": "petagnak@ballardspahr.com",
+        "Phone": "856.761.3459",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Bonnie Peterson",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "petersonb@ballardspahr.com",
+        "Phone": "206.223.7108",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Erika M. Peterson",
+        "Role": "ASSOCIATE",
+        "Mail": "petersonem@ballardspahr.com",
+        "Phone": "612.371.2457",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Louis P. Petrich",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "petrichl@ballardspahr.com",
+        "Phone": "424.204.4369",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Andrew J. Petrie",
+        "Role": "PARTNER",
+        "Mail": "petriea@ballardspahr.com",
+        "Phone": "303.299.7339",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Mudasar Pham-Khan",
+        "Role": "ASSOCIATE",
+        "Mail": "phamkhanm@ballardspahr.com",
+        "Phone": "303.299.7343",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Lea A. Phillips",
+        "Role": "PARTNER",
+        "Mail": "phillipsla@ballardspahr.com",
+        "Phone": "602.798.5464",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Ethan Picone",
+        "Role": "ASSOCIATE",
+        "Mail": "piconee@ballardspahr.com",
+        "Phone": "206.223.7038",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Lynne P. Pierce",
+        "Role": "CHIEF OF REAL ESTATE AND OFFICE OPERATIONS",
+        "Mail": "piercel@ballardspahr.com",
+        "Phone": "215.864.8288",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Brian M. Pinheiro",
+        "Role": "PARTNER",
+        "Mail": "pinheiro@ballardspahr.com",
+        "Phone": "215.864.8511",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Alayna M. Piwonski",
+        "Role": "ASSOCIATE",
+        "Mail": "piwonskia@ballardspahr.com",
+        "Phone": "206.233.7087",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Gabrielle F. Pludo",
+        "Role": "ASSOCIATE",
+        "Mail": "pludog@ballardspahr.com",
+        "Phone": "215.864.8285",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Douglas Plume",
+        "Role": "ASSOCIATE",
+        "Mail": "PlumeD@ballardspahr.com",
+        "Phone": "907.264.3315",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Mark Pollak",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "pollakm@ballardspahr.com",
+        "Phone": "410.528.5563",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Lisa D. Poplawski",
+        "Role": "PARTNER",
+        "Mail": "poplawskil@ballardspahr.com",
+        "Phone": "503.778.2164",
+        "Location": "Anchorage"
+    },
+    {
+        "Name": "Roberto A. Porras",
+        "Role": "ASSOCIATE",
+        "Mail": "porrasr@ballardspahr.com",
+        "Phone": "410.528.5531",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Alexander M. Porte, Ph.D.",
+        "Role": "PATENT AGENT",
+        "Mail": "portea@ballardspahr.com",
+        "Phone": "646.346.8071",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Bryan E. Powell",
+        "Role": "PARTNER",
+        "Mail": "powellb@ballardspahr.com",
+        "Phone": "503.778.2189",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Kristen J. C. Powell",
+        "Role": "ASSOCIATE",
+        "Mail": "powellk@ballardspahr.com",
+        "Phone": "303.299.7309",
+        "Location": "New York"
+    },
+    {
+        "Name": "Alexis Prado",
+        "Role": "ASSOCIATE",
+        "Mail": "pradoa@ballardspahr.com",
+        "Phone": "503.778.2158",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Maraya N. I. Pratt",
+        "Role": "PARTNER",
+        "Mail": "prattmn@ballardspahr.com",
+        "Phone": "410.528.5578",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Marcel S. Pratt",
+        "Role": "PARTNER",
+        "Mail": "prattm@ballardspahr.com",
+        "Phone": "215.864.8506",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Paige Presley",
+        "Role": "ASSOCIATE",
+        "Mail": "presleyp@ballardspahr.com",
+        "Phone": "215.864.8712",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "D. Finn Pressly",
+        "Role": "PARTNER",
+        "Mail": "presslyf@ballardspahr.com",
+        "Phone": "202.661.2219",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Faith V. Przymus",
+        "Role": "ASSOCIATE",
+        "Mail": "przymusf@ballardspahr.com",
+        "Phone": "424.204.4372",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Gregory T. Pyle",
+        "Role": "PARTNER",
+        "Mail": "pyleg@ballardspahr.com",
+        "Phone": "206.223.7719",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Raymond A. Quaglia",
+        "Role": "PARTNER",
+        "Mail": "quaglia@ballardspahr.com",
+        "Phone": "215.864.8530",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Eileen B. Quigley",
+        "Role": "COUNSEL",
+        "Mail": "quigleye@ballardspahr.com",
+        "Phone": "856.761.3420",
+        "Location": "New York"
+    },
+    {
+        "Name": "Timothy R. Rahn",
+        "Role": "ASSOCIATE",
+        "Mail": "rahnt@ballardspahr.com",
+        "Phone": "605.978.5242",
+        "Location": "Sioux Falls"
+    },
+    {
+        "Name": "Sarabeth Rangiah",
+        "Role": "ASSOCIATE",
+        "Mail": "rangiahs@ballardspahr.com",
+        "Phone": "202.661.2234",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Neal K. Rasmussen",
+        "Role": "ASSOCIATE",
+        "Mail": "rasmussenn@ballardspahr.com",
+        "Phone": "612.371.2413",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Kevin P. Ray",
+        "Role": "OF COUNSEL",
+        "Mail": "rayk@ballardspahr.com",
+        "Phone": "215.864.8254",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Kayla J. Rayford, Ph.D.",
+        "Role": "TECHNICAL SPECIALIST",
+        "Mail": "rayfordk@ballardspahr.com",
+        "Phone": "202.661.7645",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "William P. Reiley",
+        "Role": "OF COUNSEL",
+        "Mail": "reileyw@ballardspahr.com",
+        "Phone": "856.761.3465",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "D. Michael Reilly",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "reillym@ballardspahr.com",
+        "Phone": "206.223.7051",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Maxwell D. Reinhardt",
+        "Role": "ASSOCIATE",
+        "Mail": "reinhardtm@ballardspahr.com",
+        "Phone": "202.777.6003",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Edward G. Rendell",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "rendell@ballardspahr.com",
+        "Phone": "215.864.8401",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Melissa Rezzag",
+        "Role": "ASSOCIATE",
+        "Mail": "rezzagm@ballardspahr.com",
+        "Phone": "612.371.2450",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "William C. Rhodes",
+        "Role": "PARTNER",
+        "Mail": "rhodes@ballardspahr.com",
+        "Phone": "215.864.8534",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Ryan B. Ricketts",
+        "Role": "ASSOCIATE",
+        "Mail": "rickettsr@ballardspahr.com",
+        "Phone": "410.528.5604",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Joseph Q. Ridgeway",
+        "Role": "ASSOCIATE",
+        "Mail": "ridgewayj@ballardspahr.com",
+        "Phone": "206.223.7030",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Charles W. Riley, Jr.",
+        "Role": "PARTNER",
+        "Mail": "rileyc@ballardspahr.com",
+        "Phone": "206.223.7959",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "George M. Riter, Jr.",
+        "Role": "ASSOCIATE",
+        "Mail": "riterg@ballardspahr.com",
+        "Phone": "215.864.8223",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Alan S. Ritterband",
+        "Role": "PARTNER",
+        "Mail": "ritterband@ballardspahr.com",
+        "Phone": "215.864.8716",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jessica M. Rizzo",
+        "Role": "ASSOCIATE",
+        "Mail": "rizzoj@ballardspahr.com",
+        "Phone": "215.864.8347",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Noah S. Robbins",
+        "Role": "PARTNER",
+        "Mail": "robbinsn@ballardspahr.com",
+        "Phone": "215.864.8745",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jeffrey W. Robinson",
+        "Role": "PARTNER",
+        "Mail": "robinsonjw@ballardspahr.com",
+        "Phone": "907.264.3311",
+        "Location": "Anchorage"
+    },
+    {
+        "Name": "Joan Robinson",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "robinsonj@ballardspahr.com",
+        "Phone": "206.223.6277",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Wesley R. Robinson",
+        "Role": "PARTNER",
+        "Mail": "robinsonw@ballardspahr.com",
+        "Phone": "602.798.5489",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Michael P. Robotti",
+        "Role": "PARTNER",
+        "Mail": "robottim@ballardspahr.com",
+        "Phone": "646.346.8020",
+        "Location": "New York"
+    },
+    {
+        "Name": "Katherine E. Rodriguez",
+        "Role": "ASSOCIATE",
+        "Mail": "rodriguezk@ballardspahr.com",
+        "Phone": "410.528.5517",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Edward D. Rogers",
+        "Role": "PARTNER",
+        "Mail": "rogerse@ballardspahr.com",
+        "Phone": "215.864.8144",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Emory Rogers",
+        "Role": "COMPLIANCE MANAGER",
+        "Mail": "rogerseb@ballardspahr.com",
+        "Phone": "202.661.7639",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Laurel D. Roglen",
+        "Role": "PARTNER",
+        "Mail": "roglenl@ballardspahr.com",
+        "Phone": "302.252.4462",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Juliana Garcia-Gombau Romeu",
+        "Role": "ATTORNEY",
+        "Mail": "romeuj@ballardspahr.com",
+        "Phone": "424.204.4334",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Jonathan P. Rowe",
+        "Role": "SENIOR ATTORNEY",
+        "Mail": "rowej@ballardspahr.com",
+        "Phone": "801.531.3018",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Burt M. Rublin",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "rublin@ballardspahr.com",
+        "Phone": "215.864.8116",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Sean C. Rucker",
+        "Role": "ASSOCIATE",
+        "Mail": "ruckers@ballardspahr.com",
+        "Phone": "202.777.6991",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Barbara Lano Rummel",
+        "Role": "PARTNER",
+        "Mail": "rummelb@ballardspahr.com",
+        "Phone": "612.371.3940",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Lauren P. Russell",
+        "Role": "ASSOCIATE",
+        "Mail": "russelll@ballardspahr.com",
+        "Phone": "202.661.7605",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Lynn E. Rzonca",
+        "Role": "PARTNER",
+        "Mail": "rzoncal@ballardspahr.com",
+        "Phone": "215.864.8109",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Eric M. Sable",
+        "Role": "ASSOCIATE",
+        "Mail": "sablee@ballardspahr.com",
+        "Phone": "215.864.8877",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Siobhan O'Donnell Sachs",
+        "Role": "PARTNER",
+        "Mail": "sachss@ballardspahr.com",
+        "Phone": "424.204.4341",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Jessica Hepburn Sadler",
+        "Role": "COUNSEL",
+        "Mail": "sadlerjh@ballardspahr.com",
+        "Phone": "202.661.7658",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "John D. Sadler",
+        "Role": "PARTNER",
+        "Mail": "sadlerj@ballardspahr.com",
+        "Phone": "202.661.7659",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Paul J. Safier",
+        "Role": "OF COUNSEL",
+        "Mail": "safierp@ballardspahr.com",
+        "Phone": "215.988.9146",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Gabriela Sanchez",
+        "Role": "PARTNER",
+        "Mail": "sanchezg@ballardspahr.com",
+        "Phone": "503.778.2172",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Blaine F. Sanders",
+        "Role": "ASSOCIATE",
+        "Mail": "sandersbf@ballardspahr.com",
+        "Phone": "215.864.8732",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jennifer Santangelo",
+        "Role": "PARTNER",
+        "Mail": "santangeloj@ballardspahr.com",
+        "Phone": "215.864.8502",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Aaron Schaer",
+        "Role": "PARTNER",
+        "Mail": "schaera@ballardspahr.com",
+        "Phone": "206.223.7103",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Kaley N. Schafer",
+        "Role": "ASSOCIATE",
+        "Mail": "schaferk@ballardspahr.com",
+        "Phone": "202.777.6990",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Jacquelyn N. Schell",
+        "Role": "PARTNER",
+        "Mail": "schellj@ballardspahr.com",
+        "Phone": "646.346.8048",
+        "Location": "New York"
+    },
+    {
+        "Name": "Aleksander \u201cSascha\u201d Schilbach",
+        "Role": "ASSOCIATE",
+        "Mail": "schilbacha@ballardspahr.com",
+        "Phone": "206.223.7094",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Elizabeth L. Schilken",
+        "Role": "ATTORNEY",
+        "Mail": "schilkene@ballardspahr.com",
+        "Phone": "424.204.4371",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Jonathan Schirmer",
+        "Role": "ASSOCIATE",
+        "Mail": "schirmerj@ballardspahr.com",
+        "Phone": "206.223.7734",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Anna A. Schmelzle",
+        "Role": "ASSOCIATE",
+        "Mail": "schmelzlea@ballardspahr.com",
+        "Phone": "303.299.7337",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Brian Schulman",
+        "Role": "PARTNER",
+        "Mail": "schulmanb@ballardspahr.com",
+        "Phone": "602.798.5407",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "David A. Schulz",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "schulzd@ballardspahr.com",
+        "Phone": "212.850.6103",
+        "Location": "New York"
+    },
+    {
+        "Name": "Joseph J. Schuster",
+        "Role": "PARTNER",
+        "Mail": "schusterj@ballardspahr.com",
+        "Phone": "303.299.7327",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Sandra A. Sciascia-Zirger, Ph.D.",
+        "Role": "PATENT AGENT",
+        "Mail": "sciasciazirgers@ballardspahr.com",
+        "Phone": "678.420.9346",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Angela L. Scott",
+        "Role": "OF COUNSEL",
+        "Mail": "scotta@ballardspahr.com",
+        "Phone": "424.204.4330",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Lisa Ashley Seeman",
+        "Role": "OF COUNSEL",
+        "Mail": "seemanl@ballardspahr.com",
+        "Phone": "612.371.2422",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Marc S. Segal",
+        "Role": "COUNSEL",
+        "Mail": "segalm@ballardspahr.com",
+        "Phone": "215.864.8843",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Catherine I. Seibel Sinitsa",
+        "Role": "ASSOCIATE",
+        "Mail": "sinitsac@ballardspahr.com",
+        "Phone": "215.864.8844",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Laura L. Seidel",
+        "Role": "PARTNER",
+        "Mail": "seidell@ballardspahr.com",
+        "Phone": "678.420.9312",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Julie H. Seidenstein",
+        "Role": "OF COUNSEL",
+        "Mail": "seidensteinj@ballardspahr.com",
+        "Phone": "206.223.7080",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Elizabeth Seidlin-Bernstein",
+        "Role": "OF COUNSEL",
+        "Mail": "seidline@ballardspahr.com",
+        "Phone": "215.988.9774",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Nathan E. Seiler",
+        "Role": "PARTNER",
+        "Mail": "seilern@ballardspahr.com",
+        "Phone": "303.379.2276",
+        "Location": "Boulder"
+    },
+    {
+        "Name": "Alex Sellke",
+        "Role": "OF COUNSEL",
+        "Mail": "sellkea@ballardspahr.com",
+        "Phone": "612.371.2440",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Gregory L. Seltzer",
+        "Role": "PARTNER",
+        "Mail": "seltzerg@ballardspahr.com",
+        "Phone": "215.864.8142",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "William C. Severson",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "seversonw@ballardspahr.com",
+        "Phone": "206.223.7118",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Melissa Sevier",
+        "Role": "ASSOCIATE",
+        "Mail": "sevierm@ballardspahr.com",
+        "Phone": "206.223.7406",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Sharon Shachar",
+        "Role": "PARTNER",
+        "Mail": "shachars@ballardspahr.com",
+        "Phone": "646.346.8064",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Sara Shahbazi",
+        "Role": "ASSOCIATE",
+        "Mail": "shahbazis@ballardspahr.com",
+        "Phone": "424.204.4345",
+        "Location": "New York"
+    },
+    {
+        "Name": "Garrett S. Shaikh",
+        "Role": "ASSOCIATE",
+        "Mail": "shaikhg@ballardspahr.com",
+        "Phone": "602.798.5429",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Justin Sharp",
+        "Role": "ASSOCIATE",
+        "Mail": "sharpj@ballardspahr.com",
+        "Phone": "612.371.2421",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Jared A. Sheinberg",
+        "Role": "ASSOCIATE",
+        "Mail": "sheinbergj@ballardspahr.com",
+        "Phone": "215.864.8492",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Silvia A. Shin",
+        "Role": "PARTNER",
+        "Mail": "shins@ballardspahr.com",
+        "Phone": "302.252.4451",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Brian D. Short",
+        "Role": "PARTNER",
+        "Mail": "shortb@ballardspahr.com",
+        "Phone": "215.864.8230",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Kimberly Short",
+        "Role": "CHIEF ENGAGEMENT OFFICER",
+        "Mail": "short@ballardspahr.com",
+        "Phone": "215.864.8727",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "D. Brian Shortell, Ph.D.",
+        "Role": "PARTNER",
+        "Mail": "shortellb@ballardspahr.com",
+        "Phone": "678.420.9446",
+        "Location": "New York"
+    },
+    {
+        "Name": "Kelly M. Silveira",
+        "Role": "ASSOCIATE",
+        "Mail": "silveirak@ballardspahr.com",
+        "Phone": "215.864.8270",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Lee C. Silverman",
+        "Role": "OF COUNSEL",
+        "Mail": "silvermanl@ballardspahr.com",
+        "Phone": "215.864.8264",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Benjamin N. Simler",
+        "Role": "ASSOCIATE",
+        "Mail": "simlerb@ballardspahr.com",
+        "Phone": "215.864.8872",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Nicole L. Simmons",
+        "Role": "OF COUNSEL",
+        "Mail": "simmonsn@ballardspahr.com",
+        "Phone": "602.798.5431",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Marcus Simon",
+        "Role": "PARTNER",
+        "Mail": "simonm@ballardspahr.com",
+        "Phone": "801.531.3048",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Madhundra Sivakumar",
+        "Role": "ASSOCIATE",
+        "Mail": "sivakumarm@ballardspahr.com",
+        "Phone": "215.864.8858",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Jacey Skinner",
+        "Role": "OF COUNSEL",
+        "Mail": "skinnerj@ballardspahr.com",
+        "Phone": "801.531.3046",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Scott R. Slaney",
+        "Role": "ASSOCIATE",
+        "Mail": "slaneys@ballardspahr.com",
+        "Phone": "678.420.9354",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "William A. Slaughter",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "slaughter@ballardspahr.com",
+        "Phone": "215.864.8114",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Elizabeth A. Sloan",
+        "Role": "PARTNER",
+        "Mail": "sloane@ballardspahr.com",
+        "Phone": "302.252.4458",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Wilson Smerconish",
+        "Role": "ASSOCIATE",
+        "Mail": "smerconishw@ballardspahr.com",
+        "Phone": "215.864.8414",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Alia L. Smith",
+        "Role": "OF COUNSEL",
+        "Mail": "smithalia@ballardspahr.com",
+        "Phone": "202.508.1125",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Conor H.M. Smith",
+        "Role": "ASSOCIATE",
+        "Mail": "smithchm@ballardspahr.com",
+        "Phone": "612.371.2451",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Matthew T. Smith",
+        "Role": "PARTNER",
+        "Mail": "smithmt@ballardspahr.com",
+        "Phone": "215.864.8311",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Susan A. Smith",
+        "Role": "PARTNER",
+        "Mail": "smiths@ballardspahr.com",
+        "Phone": "202.661.2247",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "John P. Smolen",
+        "Role": "PARTNER",
+        "Mail": "smolenj@ballardspahr.com",
+        "Phone": "410.528.5582",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "John D. Socknat",
+        "Role": "PARTNER",
+        "Mail": "socknatj@ballardspahr.com",
+        "Phone": "202.661.2253",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Michele Solari",
+        "Role": "ASSOCIATE",
+        "Mail": "solarim@ballardspahr.com",
+        "Phone": "646.346.8012",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Breeana J. Somers",
+        "Role": "ASSOCIATE",
+        "Mail": "somersb@ballardspahr.com",
+        "Phone": "215.864.8323",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Kenneth H. Sonnenfeld, Ph.D.",
+        "Role": "PARTNER",
+        "Mail": "sonnenfeldk@ballardspahr.com",
+        "Phone": "646.346.8050",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Nicole Necklas Soraruf",
+        "Role": "SENIOR ATTORNEY",
+        "Mail": "sorarufn@ballardspahr.com",
+        "Phone": "410.528.5565",
+        "Location": "New York"
+    },
+    {
+        "Name": "Clinton R. South, Ph.D.",
+        "Role": "ASSOCIATE",
+        "Mail": "southc@ballardspahr.com",
+        "Phone": "678.420.9460",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Preston J. Spadaro",
+        "Role": "ASSOCIATE",
+        "Mail": "spadarop@ballardspahr.com",
+        "Phone": "215.864.8286",
+        "Location": "New York"
+    },
+    {
+        "Name": "Dee Spagnuolo",
+        "Role": "PARTNER",
+        "Mail": "spagnuolod@ballardspahr.com",
+        "Phone": "215.864.8312",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Nicholas R. Spear",
+        "Role": "ASSOCIATE",
+        "Mail": "spearn@ballardspahr.com",
+        "Phone": "602.798.5426",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Cliff E. Spencer",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "spencerce@ballardspahr.com",
+        "Phone": "503.778.2197",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jim Spencer",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "spencerjl@ballardspahr.com",
+        "Phone": "206.223.7088",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "P. Andrew Spicknall",
+        "Role": "PARTNER",
+        "Mail": "spicknallp@ballardspahr.com",
+        "Phone": "202.661.2268",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Andrew D. Spruiell",
+        "Role": "PARTNER",
+        "Mail": "spruiella@ballardspahr.com",
+        "Phone": "303.279.2280",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Joshua S. Stanley",
+        "Role": "ASSOCIATE",
+        "Mail": "stanleyj@ballardspahr.com",
+        "Phone": "801.531.3026",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Tesia N. Stanley",
+        "Role": "ATTORNEY",
+        "Mail": "stanleyt@ballardspahr.com",
+        "Phone": "801.531.3036",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Heather St.Clair",
+        "Role": "OF COUNSEL",
+        "Mail": "stclairh@ballardspahr.com",
+        "Phone": "503.778.2180",
+        "Location": "Boulder"
+    },
+    {
+        "Name": "Hayley Steele",
+        "Role": "ASSOCIATE",
+        "Mail": "steelehc@ballardspahr.com",
+        "Phone": "612.371.2423",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Juan Steevens",
+        "Role": "ASSOCIATE",
+        "Mail": "steevensj@ballardspahr.com",
+        "Phone": "206.223.7933",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Wendy R. Stein",
+        "Role": "PARTNER",
+        "Mail": "steinw@ballardspahr.com",
+        "Phone": "646.346.8078",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Jill Steinberg",
+        "Role": "PARTNER",
+        "Mail": "steinbergj@ballardspahr.com",
+        "Phone": "678.420.9417",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Samantha R. Steketee",
+        "Role": "SENIOR LAND USE PLANNER",
+        "Mail": "steketees@ballardspahr.com",
+        "Phone": "202.661.7633",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Stephanie Stephens",
+        "Role": "PARTNER",
+        "Mail": "stephenss@ballardspahr.com",
+        "Phone": "206.223.7384",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Camarie Stephenson",
+        "Role": "ASSOCIATE",
+        "Mail": "stephensonc@ballardspahr.com",
+        "Phone": "801.531.3038",
+        "Location": "New York"
+    },
+    {
+        "Name": "Jaylin C. H. Stevenson",
+        "Role": "ASSOCIATE",
+        "Mail": "stevensonj@ballardspahr.com",
+        "Phone": "424.204.4340",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Zachary F. Stevenson",
+        "Role": "ASSOCIATE",
+        "Mail": "stevensonz@ballardspahr.com",
+        "Phone": "678.420.9337",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Chad A. Stewart",
+        "Role": "PARTNER",
+        "Mail": "stewartc@ballardspahr.com",
+        "Phone": "612.371.5774",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Mark S. Stewart",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "stewartm@ballardspahr.com",
+        "Phone": "215.864.8225",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "R. Stephen Stigall",
+        "Role": "PARTNER",
+        "Mail": "stigalls@ballardspahr.com",
+        "Phone": "215.864.8369",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Matthew A. Stoloff",
+        "Role": "ATTORNEY",
+        "Mail": "stoloffm@ballardspahr.com",
+        "Phone": "206.223.6250",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Andrea Stone",
+        "Role": "OF COUNSEL",
+        "Mail": "stonea@ballardspahr.com",
+        "Phone": "602.798.5433",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Mischka Stone",
+        "Role": "ASSOCIATE",
+        "Mail": "stonem@ballardspahr.com",
+        "Phone": "612.371.2483",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Wayne R. Strasbaugh",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "strasbaugh@ballardspahr.com",
+        "Phone": "215.864.8328",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Kai A. Subic-Skattum",
+        "Role": "ASSOCIATE",
+        "Mail": "subicskattumk@ballardspahr.com",
+        "Phone": "206.223.7071",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Heike K. Sullivan",
+        "Role": "PARTNER",
+        "Mail": "sullivanh@ballardspahr.com",
+        "Phone": "215.864.8304",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Ryan F. Sullivan",
+        "Role": "ASSOCIATE",
+        "Mail": "sullivanr@ballardspahr.com",
+        "Phone": "215.864.8272",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Thomas B. Sullivan",
+        "Role": "PARTNER",
+        "Mail": "sullivant@ballardspahr.com",
+        "Phone": "212.850.6139",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Matthew G. Summers",
+        "Role": "PARTNER",
+        "Mail": "summersm@ballardspahr.com",
+        "Phone": "302.252.4428",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Kevin Y. Sun",
+        "Role": "ASSOCIATE",
+        "Mail": "sunk@ballardspahr.com",
+        "Phone": "303.299.7325",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Lisa B. Swaminathan",
+        "Role": "PRO BONO COUNSEL",
+        "Mail": "swaminathanl@ballardspahr.com",
+        "Phone": "215.864.8905",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Jessica Swanson",
+        "Role": "ASSOCIATE",
+        "Mail": "swansonj@ballardspahr.com",
+        "Phone": "612.371.3994",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Gregory Szewczyk",
+        "Role": "PARTNER",
+        "Mail": "szewczykg@ballardspahr.com",
+        "Phone": "303.299.7382",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Philip I. Tafet",
+        "Role": "ASSOCIATE",
+        "Mail": "tafetp@ballardspahr.com",
+        "Phone": "646.346.8044",
+        "Location": "New York"
+    },
+    {
+        "Name": "Adam A. Taryle",
+        "Role": "ASSOCIATE",
+        "Mail": "tarylea@ballardspahr.com",
+        "Phone": "424.204.4367",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Maggie M. Tatton",
+        "Role": "PARTNER",
+        "Mail": "tattonm@ballardspahr.com",
+        "Phone": "612.371.2465",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Eric K. Temmel",
+        "Role": "ASSOCIATE",
+        "Mail": "temmele@ballardspahr.com",
+        "Phone": "215.864.8588",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Robert S. Teuton",
+        "Role": "ASSOCIATE",
+        "Mail": "teutonr@ballardspahr.com",
+        "Phone": "702.868.7536",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Christine Thelen",
+        "Role": "OF COUNSEL",
+        "Mail": "thelenc@ballardspahr.com",
+        "Phone": "503.778.2139",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Regina O'Brien Thomas",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "thomasr@ballardspahr.com",
+        "Phone": "215.864.8309",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jere G. Thompson",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "thompsonj@ballardspahr.com",
+        "Phone": "215.864.8501",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Joe Thompson",
+        "Role": "OF COUNSEL",
+        "Mail": "thompsonjr@ballardspahr.com",
+        "Phone": "612.371.3247",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Richard T. Thomson",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "thomsonr@ballardspahr.com",
+        "Phone": "612.371.6213",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "J. Matt Thornton",
+        "Role": "OF COUNSEL",
+        "Mail": "thorntonj@ballardspahr.com",
+        "Phone": "612.371.6207",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Charles D. Tobin",
+        "Role": "PARTNER",
+        "Mail": "tobinc@ballardspahr.com",
+        "Phone": "202.661.2218",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Daniel J. Tobin",
+        "Role": "PARTNER",
+        "Mail": "tobindj@ballardspahr.com",
+        "Phone": "202.661.2256",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Elizabeth M. Torres (McClellan)",
+        "Role": "ASSOCIATE",
+        "Mail": "torrese@ballardspahr.com",
+        "Phone": "410.528.5557",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Randall J. Towers",
+        "Role": "PARTNER",
+        "Mail": "towers@ballardspahr.com",
+        "Phone": "215.864.8522",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jacob E. Trachtenberg",
+        "Role": "ASSOCIATE",
+        "Mail": "trachtenbergj@ballardspahr.com",
+        "Phone": "215.864.8252",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Charles D. Treece",
+        "Role": "PARTNER",
+        "Mail": "treecec@ballardspahr.com",
+        "Phone": "202.661.2265",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Meredith St. Clair Trego",
+        "Role": "ASSOCIATE",
+        "Mail": "tregom@ballardspahr.com",
+        "Phone": "215.864.8229",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Maria Tripplaar",
+        "Role": "OF COUNSEL",
+        "Mail": "tripplaarm@ballardspahr.com",
+        "Phone": "202.777.6987",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Raymond G. Truitt",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "truitt@ballardspahr.com",
+        "Phone": "410.528.5629",
+        "Location": "Baltimore"
+    },
+    {
+        "Name": "Sireen I. Tucker",
+        "Role": "ASSOCIATE",
+        "Mail": "tuckers@ballardspahr.com",
+        "Phone": "215.864.8711",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Robert E. Tunheim",
+        "Role": "PARTNER",
+        "Mail": "tunheimr@ballardspahr.com",
+        "Phone": "612.371.3915",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Mitchell Turbenson",
+        "Role": "ASSOCIATE",
+        "Mail": "turbensonm@ballardspahr.com",
+        "Phone": "602.798.5428",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Doyle S. Tuvesson",
+        "Role": "ASSOCIATE",
+        "Mail": "tuvessond@ballardspahr.com",
+        "Phone": "215.861.7452",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Stacey C. Tyler",
+        "Role": "OF COUNSEL",
+        "Mail": "tylers@ballardspahr.com",
+        "Phone": "646.346.8021",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Ryan J. Udell",
+        "Role": "PARTNER",
+        "Mail": "udellr@ballardspahr.com",
+        "Phone": "215.864.8503",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Nonye Ukoh",
+        "Role": "ASSOCIATE",
+        "Mail": "ukohn@ballardspahr.com",
+        "Phone": "202.661.7686",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Saumya K. Vaishampayan",
+        "Role": "ASSOCIATE",
+        "Mail": "vaishampayans@ballardspahr.com",
+        "Phone": "646.346.8036",
+        "Location": "New York"
+    },
+    {
+        "Name": "Andrew P. Valencia",
+        "Role": "ASSOCIATE",
+        "Mail": "valenciaa@ballardspahr.com",
+        "Phone": "303.299.7351",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Matthew J. Vantusko",
+        "Role": "ASSOCIATE",
+        "Mail": "vantuskom@ballardspahr.com",
+        "Phone": "702.868.7525",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Ronald M. Varnum",
+        "Role": "OF COUNSEL",
+        "Mail": "varnumr@ballardspahr.com",
+        "Phone": "215.864.8416",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Melanie J. Vartabedian",
+        "Role": "PARTNER",
+        "Mail": "vartabedianm@ballardspahr.com",
+        "Phone": "801.517.6842",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Ronald K. Vaske",
+        "Role": "PARTNER",
+        "Mail": "vasker@ballardspahr.com",
+        "Phone": "612.371.3215",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Karla M. Vehrs",
+        "Role": "PARTNER",
+        "Mail": "vehrsk@ballardspahr.com",
+        "Phone": "612.371.2449",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Denise Veldman",
+        "Role": "ASSOCIATE",
+        "Mail": "veldmand@ballardspahr.com",
+        "Phone": "303.299.7324",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Ben Vernon",
+        "Role": "ASSOCIATE",
+        "Mail": "vernonb@ballardspahr.com",
+        "Phone": "424.204.4321",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Margaret A. Vesper",
+        "Role": "ASSOCIATE",
+        "Mail": "vesperm@ballardspahr.com",
+        "Phone": "302.252.4450",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Maulin Vidwans",
+        "Role": "PARTNER",
+        "Mail": "vidwansm@ballardspahr.com",
+        "Phone": "215.864.8523",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Abran Vigil",
+        "Role": "PARTNER",
+        "Mail": "vigila@ballardspahr.com",
+        "Phone": "702.868.7523",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "C. Ben Vila",
+        "Role": "ASSOCIATE",
+        "Mail": "vilab@ballardspahr.com",
+        "Phone": "215.864.8524",
+        "Location": "Las Vegas"
+    },
+    {
+        "Name": "Priya B. Vivian",
+        "Role": "PARTNER",
+        "Mail": "vivianp@ballardspahr.com",
+        "Phone": "206.223.7055",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Ron Vogel",
+        "Role": "ATTORNEY",
+        "Mail": "vogelr@ballardspahr.com",
+        "Phone": "646.346.8035",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Diane E. Vuocolo",
+        "Role": "PARTNER",
+        "Mail": "vuocolod@ballardspahr.com",
+        "Phone": "215.864.8162",
+        "Location": "New York"
+    },
+    {
+        "Name": "Tim D. Wackerbarth",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "wackerbartht@ballardspahr.com",
+        "Phone": "206.223.7960",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Kristine Waddell",
+        "Role": "ATTORNEY",
+        "Mail": "waddellk@ballardspahr.com",
+        "Phone": "602.798.5476",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Damaris Y. Walker",
+        "Role": "ATTORNEY",
+        "Mail": "walkerdy@ballardspahr.com",
+        "Phone": "215.864.8744",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Leita Walker",
+        "Role": "PARTNER",
+        "Mail": "walkerl@ballardspahr.com",
+        "Phone": "612.371.6222",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Laura M. Wall",
+        "Role": "ATTORNEY",
+        "Mail": "walll@ballardspahr.com",
+        "Phone": "678.420.9353",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "James R. Walston",
+        "Role": "SPECIAL COUNSEL",
+        "Mail": "walstonj@ballardspahr.com",
+        "Phone": "612.371.3244",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Neal Walters",
+        "Role": "PARTNER",
+        "Mail": "waltersn@ballardspahr.com",
+        "Phone": "856.761.3438",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "John D. Wambold",
+        "Role": "PARTNER",
+        "Mail": "wamboldj@ballardspahr.com",
+        "Phone": "612.371.3947",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Andrew T. Wang",
+        "Role": "ASSOCIATE",
+        "Mail": "wangat@ballardspahr.com",
+        "Phone": "202.777.6047",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Taylor Washburn",
+        "Role": "OF COUNSEL",
+        "Mail": "washburnt@ballardspahr.com",
+        "Phone": "206.223.7743",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "William P. Wassweiler",
+        "Role": "PARTNER",
+        "Mail": "wassweilerw@ballardspahr.com",
+        "Phone": "612.371.3289",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Casey G. Watkins",
+        "Role": "OF COUNSEL",
+        "Mail": "watkinsc@ballardspahr.com",
+        "Phone": "856.761.3455",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Kimberly R. Watkins",
+        "Role": "ASSOCIATE",
+        "Mail": "watkinsk@ballardspahr.com",
+        "Phone": "801.531.3064",
+        "Location": "Salt Lake City"
+    },
+    {
+        "Name": "Travis W. Watson",
+        "Role": "ASSOCIATE",
+        "Mail": "watsontw@ballardspahr.com",
+        "Phone": "215.864.8475",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Nicholas J. Weeks",
+        "Role": "CHIEF RISK MANAGEMENT OFFICER",
+        "Mail": "weeksn@ballardspahr.com",
+        "Phone": "215.864.8980",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Edward J. Wegerson",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "wegersone@ballardspahr.com",
+        "Phone": "612.371.3549",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Joseph W. Weill",
+        "Role": "PARTNER",
+        "Mail": "weillj@ballardspahr.com",
+        "Phone": "856.761.3437",
+        "Location": "New Jersey"
+    },
+    {
+        "Name": "Harry Weiss",
+        "Role": "PARTNER",
+        "Mail": "weiss@ballardspahr.com",
+        "Phone": "215.864.8129",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Elizabeth P. Weissert",
+        "Role": "ASSOCIATE",
+        "Mail": "weisserte@ballardspahr.com",
+        "Phone": "215.864.8672",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Hannah L. Welsh",
+        "Role": "ASSOCIATE",
+        "Mail": "welshh@ballardspahr.com",
+        "Phone": "215.864.8405",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Melissa L. Wen",
+        "Role": "ASSOCIATE",
+        "Mail": "wenm@ballardspahr.com",
+        "Phone": "215.864.8318",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Kathryn E. Wendt",
+        "Role": "OF COUNSEL",
+        "Mail": "wendtk@ballardspahr.com",
+        "Phone": "612.371.2405",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Michael C. West",
+        "Role": "ATTORNEY",
+        "Mail": "westmc@ballardspahr.com",
+        "Phone": "303.299.7323",
+        "Location": "Denver"
+    },
+    {
+        "Name": "John C. Wheatley",
+        "Role": "OF COUNSEL",
+        "Mail": "wheatleyj@ballardspahr.com",
+        "Phone": "202.661.2255",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Matthew A. White",
+        "Role": "PARTNER",
+        "Mail": "whitema@ballardspahr.com",
+        "Phone": "215.864.8849",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Alan White, Ph.D.",
+        "Role": "ATTORNEY",
+        "Mail": "whiteda@ballardspahr.com",
+        "Phone": "678.420.9406",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Daniel Wilkinson",
+        "Role": "ASSOCIATE",
+        "Mail": "wilkinsond@ballardspahr.com",
+        "Phone": "303.299.7305",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Emily A. Williams",
+        "Role": "ASSOCIATE",
+        "Mail": "williamsea@ballardspahr.com",
+        "Phone": "206.223.6271",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "L. Frederick \"Fred\" Williams, Jr.",
+        "Role": "SENIOR COUNSEL",
+        "Mail": "williamsf@ballardspahr.com",
+        "Phone": "602.798.5442",
+        "Location": "Phoenix"
+    },
+    {
+        "Name": "Erin L. Williamson",
+        "Role": "ASSOCIATE",
+        "Mail": "williamsone@ballardspahr.com",
+        "Phone": "302.252.4463",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Brittany M. Wilson",
+        "Role": "PARTNER",
+        "Mail": "wilsonbm@ballardspahr.com",
+        "Phone": "215.864.8218",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Erin M. Wilson",
+        "Role": "PARTNER",
+        "Mail": "wilsonem@ballardspahr.com",
+        "Phone": "206.223.7432",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Elizabeth Wingfield",
+        "Role": "ASSOCIATE",
+        "Mail": "wingfielde@ballardspahr.com",
+        "Phone": "215.864.8128",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Roger D. Winston",
+        "Role": "PARTNER",
+        "Mail": "winstonr@ballardspahr.com",
+        "Phone": "202.661.7660",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Steven B. Winters",
+        "Role": "OF COUNSEL",
+        "Mail": "winterss@ballardspahr.com",
+        "Phone": "206.223.7740",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Sandra Wintner",
+        "Role": "OF COUNSEL",
+        "Mail": "wintners@ballardspahr.com",
+        "Phone": "215.864.8407",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Thomas J. Woessner",
+        "Role": "PARTNER",
+        "Mail": "woessnert@ballardspahr.com",
+        "Phone": "612.371.3517",
+        "Location": "Minneapolis"
+    },
+    {
+        "Name": "Lesley Frieder Wolf",
+        "Role": "OF COUNSEL",
+        "Mail": "wolfl@ballardspahr.com",
+        "Phone": "215.665.8500",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jeffrey C. Wolfstone",
+        "Role": "PARTNER",
+        "Mail": "wolfstonej@ballardspahr.com",
+        "Phone": "503.778.2153",
+        "Location": "Delaware"
+    },
+    {
+        "Name": "Betty N. Wong",
+        "Role": "OF COUNSEL",
+        "Mail": "wongb@ballardspahr.com",
+        "Phone": "206.223.6240",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Mohammed N. Workicho",
+        "Role": "ASSOCIATE",
+        "Mail": "workichom@ballardspahr.com",
+        "Phone": "503.778.2113",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Lily Wound",
+        "Role": "PARTNER",
+        "Mail": "woundl@ballardspahr.com",
+        "Phone": "646.346.8030",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Kelly M. Wrenn",
+        "Role": "PARTNER",
+        "Mail": "wrenn@ballardspahr.com",
+        "Phone": "202.661.2204",
+        "Location": "New York"
+    },
+    {
+        "Name": "Christopher Wyant",
+        "Role": "PARTNER",
+        "Mail": "wyantc@ballardspahr.com",
+        "Phone": "206.223.7433",
+        "Location": "Washington, DC"
+    },
+    {
+        "Name": "Nalee Xiong",
+        "Role": "ASSOCIATE",
+        "Mail": "xiongn@ballardspahr.com",
+        "Phone": "424.204.4351",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Masa Yamaguchi",
+        "Role": "PARTNER",
+        "Mail": "yamaguchim@ballardspahr.com",
+        "Phone": "503.778.2174",
+        "Location": "Portland"
+    },
+    {
+        "Name": "Andrew G. Yates",
+        "Role": "PARTNER",
+        "Mail": "yatesa@ballardspahr.com",
+        "Phone": "206.223.7034",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Brittany A. Yodis",
+        "Role": "ASSOCIATE",
+        "Mail": "yodisb@ballardspahr.com",
+        "Phone": "215.864.8769",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "James B. Zack",
+        "Role": "OF COUNSEL",
+        "Mail": "zackj@ballardspahr.com",
+        "Phone": "206.223.7403",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Parisa Zarelli",
+        "Role": "ASSOCIATE",
+        "Mail": "zarellip@ballardspahr.com",
+        "Phone": "206.223.7047",
+        "Location": "Seattle"
+    },
+    {
+        "Name": "Nahal Zarnighian",
+        "Role": "ASSOCIATE",
+        "Mail": "zarnighiann@ballardspahr.com",
+        "Phone": "424.204.4360",
+        "Location": "Los Angeles"
+    },
+    {
+        "Name": "Anjie Zhi",
+        "Role": "ASSOCIATE",
+        "Mail": "zhia@ballardspahr.com",
+        "Phone": "303.299.7365",
+        "Location": "Denver"
+    },
+    {
+        "Name": "Sommer S. Zimmerman, Ph.D.",
+        "Role": "ASSOCIATE",
+        "Mail": "zimmermans@ballardspahr.com",
+        "Phone": "678.420.9450",
+        "Location": "Atlanta"
+    },
+    {
+        "Name": "Stephanie A. Zirpoli",
+        "Role": "COUNSEL",
+        "Mail": "zirpolis@ballardspahr.com",
+        "Phone": "215.864.8715",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "David L. Zive",
+        "Role": "OF COUNSEL",
+        "Mail": "zived@ballardspahr.com",
+        "Phone": "215.864.8411",
+        "Location": "Philadelphia"
+    },
+    {
+        "Name": "Jay A. Zweig",
+        "Role": "PARTNER",
+        "Mail": "zweigj@ballardspahr.com",
+        "Phone": "602.798.5500",
+        "Location": "Phoenix"
+    }
+]
